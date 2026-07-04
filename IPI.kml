@@ -4,7 +4,7 @@
 	<name>IPI</name>
 	<Placemark>
 		<name>A1 - 01, Aéroport de Bruxelles-National - Luchthaven van Brussel-Nationaal (Zaventem)</name>
-		<description><![CDATA[description: https://app.box.com/s/kfirozmr6r4p3s3uwfvaj6n6y1a56vqq]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kfirozmr6r4p3s3uwfvaj6n6y1a56vqq]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -18,7 +18,7 @@
 	</Placemark>
 	<Placemark>
 		<name>A2 - 02, Gare de Bxl-Nord-Station Brussel-Noord, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/togj0o5g2xr2tvy9wwgu5vuh4wh5nzka]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/togj0o5g2xr2tvy9wwgu5vuh4wh5nzka]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -32,7 +32,7 @@
 	</Placemark>
 	<Placemark>
 		<name>A2 - 04, Gare Centrale, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/tpivpy2dpfiup36bxb0i1s50vd55a2d4]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/tpivpy2dpfiup36bxb0i1s50vd55a2d4]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -46,7 +46,7 @@
 	</Placemark>
 	<Placemark>
 		<name>A2 - 06, Gare du Midi, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/q7lak433uux6f98d247ieyqgjgd87nsg]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/q7lak433uux6f98d247ieyqgjgd87nsg]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -61,7 +61,7 @@
 	<Placemark>
 		<name>A2 - 08, Gare de Bxl-Schuman Station, Z.03 + 
 A3 - 20, METRO Schuman, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/yn0h2ld4sj3xr7lt262rhnllxfadqwha]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/yn0h2ld4sj3xr7lt262rhnllxfadqwha]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -75,7 +75,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 01, METRO Erasme - Erasmus, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/5tdyivl6o1b6kgfkv46ykvl08oc5qpe7]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5tdyivl6o1b6kgfkv46ykvl08oc5qpe7]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -89,7 +89,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 03, METRO Céria - Coovi, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/bv7lglmb38k9zsnqdsz35t890t60wg3r]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/bv7lglmb38k9zsnqdsz35t890t60wg3r]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -103,7 +103,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 05, METRO Bizet, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/xa93j8nqo6cgjiumpgaj8beet0tsve15]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/xa93j8nqo6cgjiumpgaj8beet0tsve15]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -117,7 +117,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 07, METRO Saint-Guidon - Sint-Guido, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/exnfkgxam7y09ul256cndu9vp12yebnq]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/exnfkgxam7y09ul256cndu9vp12yebnq]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -131,7 +131,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 09, METRO Jacques Brel, Z.09</name>
-		<description><![CDATA[description: https://app.box.com/s/k2hw494ikp8eatpxy6gd9ch4yuhx201d]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/k2hw494ikp8eatpxy6gd9ch4yuhx201d]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -145,7 +145,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 11, METRO Beekkant, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/xk5410kmdjskns2hb876kyjzjoy0m3gf]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/xk5410kmdjskns2hb876kyjzjoy0m3gf]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -257,7 +257,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 21, METRO Merode, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/ajymrb3s4tas5qz7zf4mlavqffav4iyj]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ajymrb3s4tas5qz7zf4mlavqffav4iyj]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -271,7 +271,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 23, METRO Pétillon, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/5mdyuhpg9e3t4t4fh1qjn5gtmetzcfmo]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5mdyuhpg9e3t4t4fh1qjn5gtmetzcfmo]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -285,7 +285,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 25, METRO Delta, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/tdku7ka0os2dq1tmwlf6vz0miwpdwjn9]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/tdku7ka0os2dq1tmwlf6vz0miwpdwjn9]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -299,7 +299,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 27, METRO Demey, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/e4s21uz059mafem9ur3w55ts7y53hnuv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/e4s21uz059mafem9ur3w55ts7y53hnuv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -313,7 +313,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 29, METRO Montgomery, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/kafue1jx7sajfdmq71dv9rpxmjtrt3il]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kafue1jx7sajfdmq71dv9rpxmjtrt3il]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -327,7 +327,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 31, METRO Gribaumont, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/hn7x0f22rq3mx51sjdzhhe851yb25rt1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/hn7x0f22rq3mx51sjdzhhe851yb25rt1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -341,7 +341,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 33, METRO Roodebeek, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/jub6qkh65suxnxcnk28qx20xroi2006d]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jub6qkh65suxnxcnk28qx20xroi2006d]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -355,7 +355,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 35, METRO Alma, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/jmhaxzmy8neg3yuunvmx753vw11pdxzk]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jmhaxzmy8neg3yuunvmx753vw11pdxzk]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -369,7 +369,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 37, METRO Stockel - Stokkel, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/7ew2j5wmw8zl78wfulf9e987lt37mdwb]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7ew2j5wmw8zl78wfulf9e987lt37mdwb]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -383,7 +383,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 39, METRO Ribaucourt, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/fcp1t6azdcgqklshuzq2ci4s2kfvc9xb]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/fcp1t6azdcgqklshuzq2ci4s2kfvc9xb]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -397,7 +397,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 41, METRO Rogier, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/qeoetv86my6qt4zvygp2286fv4k93nij]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/qeoetv86my6qt4zvygp2286fv4k93nij]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -411,7 +411,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 43, METRO Madou, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/tqf25hhuov47nwhvsn2ulnw00aenrhvv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/tqf25hhuov47nwhvsn2ulnw00aenrhvv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -425,7 +425,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 45, METRO Porte de Namur-Naamsepoort, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/l3miccdxpow18ohs1otm7s2bp1wwkmh2]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/l3miccdxpow18ohs1otm7s2bp1wwkmh2]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -439,7 +439,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 47, METRO Hötel des Monnaies-Munthof, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/jsqs8lu9dwk0kmni6bheowv4q89z8f85]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jsqs8lu9dwk0kmni6bheowv4q89z8f85]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -453,7 +453,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 49, METRO Gare du Midi-Zuidstation, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/ihe01a2q8qhgebus03hca9t242zg5d2e]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ihe01a2q8qhgebus03hca9t242zg5d2e]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -467,7 +467,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 51, METRO Delacroix, Z.09</name>
-		<description><![CDATA[description: https://app.box.com/s/pb04nobr2v8amkrc1k6gyvtvza9n0w6a]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/pb04nobr2v8amkrc1k6gyvtvza9n0w6a]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -481,7 +481,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 53, METRO Belgica, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/4ndnyr0xwgqwc5hbpk54g4l1gif87s16]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4ndnyr0xwgqwc5hbpk54g4l1gif87s16]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -495,7 +495,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 55, METRO Bockstael, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/cz8oj2w8uxajgwebcdojjiaev7hluue6]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/cz8oj2w8uxajgwebcdojjiaev7hluue6]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -509,7 +509,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 57, METRO Houba-Brugmann, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/nz1b8dg3g974sw7m7arobu41zz9t32gk]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/nz1b8dg3g974sw7m7arobu41zz9t32gk]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -523,7 +523,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 59, METRO Roi Baudouin-Koning Boudewijn, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/ihwx3ltpmy5c8i84uj0mz3633qarhapn]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ihwx3ltpmy5c8i84uj0mz3633qarhapn]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -537,7 +537,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 61, METRO Georges-Henri, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/4owfrsbk8esnd7blumcmu5in5k6jkb4z]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4owfrsbk8esnd7blumcmu5in5k6jkb4z]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -551,7 +551,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 63, METRO Albert, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/4agnh91m8xje7nd93j7xv9qhr8ahds2h]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4agnh91m8xje7nd93j7xv9qhr8ahds2h]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -565,7 +565,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 65, METRO Parvis St-Gilles - St-Gillis Voorplein, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/8j26upl2gc1484rftozq8ib4zr9avnc9]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/8j26upl2gc1484rftozq8ib4zr9avnc9]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -579,7 +579,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 67, METRO Anneessens, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/q1qkjqgbfxo6dfyytonnos7hohqnp5ph]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/q1qkjqgbfxo6dfyytonnos7hohqnp5ph]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -593,7 +593,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A3 - 69, METRO Gare du Nord-Noordstation, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/mcs3mhpwrlhpa0is6dkfmgjr2cbh5khi]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/mcs3mhpwrlhpa0is6dkfmgjr2cbh5khi]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -607,7 +607,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A4 - 01 Tunnel Annie Cordy Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/a9ryhf0tc6580nmtuc7he8v405owtba8]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/a9ryhf0tc6580nmtuc7he8v405owtba8]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -621,7 +621,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A4 - 03, TUNNEL Porte de Hal-Hallepoort, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/02ztdrehqvrqkbekdw4f68f2k4kmcj18]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/02ztdrehqvrqkbekdw4f68f2k4kmcj18]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -635,7 +635,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A4 - 05, TUNNEL Louise-Stephanie, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/qnyylkzbrruc86hzayh428vd2i5m2zmf]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/qnyylkzbrruc86hzayh428vd2i5m2zmf]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -649,7 +649,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A4 - 07, TUNNEL Montgomery, Z.03-DELTA</name>
-		<description><![CDATA[description: https://app.box.com/s/d42m3sn6tqliesxq6z7p3bv63gs7u8ph]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/d42m3sn6tqliesxq6z7p3bv63gs7u8ph]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -663,7 +663,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>A5 - 04, Station d&apos;épuration Bxl-Sud - Zuiveringsinstallatie Zuid-Bxl, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/9xjfmyuog9bfp22i9oc65u616inc0hzv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/9xjfmyuog9bfp22i9oc65u616inc0hzv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -677,7 +677,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B1 - 01, COTANCO II SEVESO, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/yeqhuaf3iiomo1d905macffdy4u3d4a2]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/yeqhuaf3iiomo1d905macffdy4u3d4a2]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -691,7 +691,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B1 - 03, Comfort Energy SEVESO II, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/p0tcfm3d6xhes1pq3pl2lyl1dwn4s3mq]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/p0tcfm3d6xhes1pq3pl2lyl1dwn4s3mq]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -705,7 +705,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B1 - 04, Lukoil (ex. Jet, ex. Seca) - SEVESO - Dépôt pétrolier - Tankpark, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/etiq1ou08mrg0ch3wbyfpgxuec4pedv9]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/etiq1ou08mrg0ch3wbyfpgxuec4pedv9]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -719,7 +719,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B2 - 03, Port de Bxl Zone A, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/00rdjj3a1sctzjy8gwa0xet77swlbsjj]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/00rdjj3a1sctzjy8gwa0xet77swlbsjj]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -733,7 +733,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 01, Coca Cola, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/norxfdner2txpc8p50u637iabzyxzsy1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/norxfdner2txpc8p50u637iabzyxzsy1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -747,7 +747,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 03, Sciensano (Groeselenberg) Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/n8btf2uxcl62qpf6h162oxorkoqg3km1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/n8btf2uxcl62qpf6h162oxorkoqg3km1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -761,7 +761,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 05, Crématoire d&apos;Uccle - Crematorium van Ukkel, Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/rrtxnoeo1pjsu3k65jr8sr0lu3bmy67h]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/rrtxnoeo1pjsu3k65jr8sr0lu3bmy67h]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -775,7 +775,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 07, D&apos;Ieteren Centre, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/5e30bzg0as7v1nursxu4bhxi2jv1vz7v]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5e30bzg0as7v1nursxu4bhxi2jv1vz7v]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -789,7 +789,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 09, Godiva - La Manufacture Belge de Chocolats, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/r4j654r2ffyv4ghn4pp3kmixbt0cbqe4]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/r4j654r2ffyv4ghn4pp3kmixbt0cbqe4]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -803,7 +803,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 11 SABCA Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/14ddmwq8ew7uq7zs1oxbd6s54i20lfg5]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/14ddmwq8ew7uq7zs1oxbd6s54i20lfg5]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -817,7 +817,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 13, Brucefo, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/2sjh2vjy8syer4z9ssp1eqrqs1gn4ce2]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/2sjh2vjy8syer4z9ssp1eqrqs1gn4ce2]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -831,7 +831,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 15, ISP-WIV, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/qv30n0jmz3wmrogzzatbc54uh78y0oit]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/qv30n0jmz3wmrogzzatbc54uh78y0oit]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -845,7 +845,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 17, Bpost Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/813ot86ob5a01oistkr7x87ufxwenvql]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/813ot86ob5a01oistkr7x87ufxwenvql]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -859,7 +859,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 19, Prayon Benelux, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/7lsy13pp6pkribwdt62fw0yrvi5q0b61]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7lsy13pp6pkribwdt62fw0yrvi5q0b61]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -873,7 +873,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 21, Viangro, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/7ekz1xlcs7vrzgicyz5f6acxzsf3kxg3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7ekz1xlcs7vrzgicyz5f6acxzsf3kxg3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -887,7 +887,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>B3 - 23, Sciensano, Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/pn2sr21vn92us6i97b1gkqh9ackadc0g]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/pn2sr21vn92us6i97b1gkqh9ackadc0g]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -901,7 +901,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 01 Cliniques UCL Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/pzbz7aaregl9let21stod4p96o92yo70]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/pzbz7aaregl9let21stod4p96o92yo70]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -915,7 +915,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 03 Hôpital AZ-VUB Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/tkiy8710x3gwtggkbi3gwvtq4r0dywut]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/tkiy8710x3gwtggkbi3gwvtq4r0dywut]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -929,7 +929,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 06, Clinique St Jean, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/rhbn26uf70n0lv4s3dplynh5senoukkx]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/rhbn26uf70n0lv4s3dplynh5senoukkx]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -943,7 +943,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 08, Cliniques de l’Europe (Sainte-Elisabeth) - Europaziekenhuizen (Sint-Elisabeth), Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/y1fier3fh096vagtbpbezw5k2lk0ira3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/y1fier3fh096vagtbpbezw5k2lk0ira3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -957,7 +957,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 10, Institut Jules Bordet - Hôpital - Ziekenhuis, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/1tymna6c2ada47ss4mwn89n5lg4tim9v]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/1tymna6c2ada47ss4mwn89n5lg4tim9v]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -971,7 +971,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 12, CHU St-Pierre-UMC St-Pieter, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/uvmu9syxxux77lmlgkyr2fyizvt60dlz]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/uvmu9syxxux77lmlgkyr2fyizvt60dlz]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -985,7 +985,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 14, CHIREC Delta, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/k1g3a9ky6ahogpuoye5s4n43pin2a3cr]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/k1g3a9ky6ahogpuoye5s4n43pin2a3cr]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -999,7 +999,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 16, Clinique de la Basilique-Basiliek Kliniek, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/l128weh9jvhbdvdzzhurhdmzbvtkv6ys]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/l128weh9jvhbdvdzzhurhdmzbvtkv6ys]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1013,7 +1013,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 18, CHU Saint-Pierre (Site César de Paepe) - UMC Sint-Pieter (Site Cesar de Paepe) - Hôpital - Ziekenhuis, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/lx8o4e9nihd074b2lvw6hhhgwltaw78l]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/lx8o4e9nihd074b2lvw6hhhgwltaw78l]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1027,7 +1027,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 20, Résidence Sainte-Gertrude - Residentie Sint-Geertruide, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/m04crrd8eizdenl0adki47gg4o8o46ou]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/m04crrd8eizdenl0adki47gg4o8o46ou]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1041,7 +1041,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C1 - 22, Clinique Ste-Anne St-Rémi- St-Anna St-Remi Ziekenhuis, Z.09</name>
-		<description><![CDATA[description: https://app.box.com/s/1ip8lw8wltb8pjlwoxh1spb4lon7lyz3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/1ip8lw8wltb8pjlwoxh1spb4lon7lyz3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1055,7 +1055,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 01, Prison de Saint-Gilles - Gevangenis van Sint-Gillis, Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/5jbq8ewu1gkf5zol8oy77bbzdzp55m61]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5jbq8ewu1gkf5zol8oy77bbzdzp55m61]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1069,7 +1069,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 04 Château Royal De Laeken - Koninklijk Kasteel Van Laeken, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/uxf4heusdg5r2p40z8shopp3u3x1fyjj]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/uxf4heusdg5r2p40z8shopp3u3x1fyjj]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1083,7 +1083,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 06, Château - Stuyvenbergh - Kasteel, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/67kuvfynbdp9l7y7ddrqd6d0tavqqw2a]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/67kuvfynbdp9l7y7ddrqd6d0tavqqw2a]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1097,7 +1097,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 08, Parlement Européen Montoyer 70 (MTY) - Europees Parlement Montoyer 70 (MTY), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/1rjnooqilluj7opnv9of81qwnpsw53cg]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/1rjnooqilluj7opnv9of81qwnpsw53cg]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1111,7 +1111,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 10, Parlement Européen Montoyer 63 (MON) - Europees Parlement Montoyer 63 (MON), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/7uxefzrv3fxqdcvx5ieyd550b2xc4175]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7uxefzrv3fxqdcvx5ieyd550b2xc4175]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1125,7 +1125,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 12, Parlement Européen Wayenberg (WAY) - Europees Parlement Wayenberg (WAY), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/rmo22hwcloq70tue21ojflhcbjixptq3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/rmo22hwcloq70tue21ojflhcbjixptq3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1139,7 +1139,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 14, Maison des Parlementaires - Huis des Parlementsleden, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/b2ybhd3fla0u288j1irxqwni9yilt020]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/b2ybhd3fla0u288j1irxqwni9yilt020]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1153,7 +1153,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 16, Palais des Académies - Paleis der Academiën, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/dce3ikvu4v1ph39stv4zzxx8lqrwle8b]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/dce3ikvu4v1ph39stv4zzxx8lqrwle8b]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1167,7 +1167,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 18, Palais Stoclet Paleis, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/pz4qcaiy4ljrgk1r3frat2yjy5127f5x]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/pz4qcaiy4ljrgk1r3frat2yjy5127f5x]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1181,7 +1181,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 20, Com. Eu. Cole (crèche), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/un6nhc8a57gvgj17ta3b7s61ze2rgcqv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/un6nhc8a57gvgj17ta3b7s61ze2rgcqv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1195,7 +1195,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 22, Ambassade USA, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/t5g4l4wnsmmqddsz1z7xkaem7bs7lbw1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/t5g4l4wnsmmqddsz1z7xkaem7bs7lbw1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1209,7 +1209,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 24 Palais de Justice Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/d5yrl2tut9opqf87gekpfud9w3ij7bp3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/d5yrl2tut9opqf87gekpfud9w3ij7bp3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1223,7 +1223,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 26, Police Fed. Complexe Couronne, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/kmvpoyqjacaob2d8ay2tsi3fr39m1p11]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kmvpoyqjacaob2d8ay2tsi3fr39m1p11]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1237,7 +1237,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 28, Parl. Euro. Montoyer 30 (MTS), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/gzbkpi5tbg5lmmfs6wxx3x6piv74cn8a]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/gzbkpi5tbg5lmmfs6wxx3x6piv74cn8a]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1251,7 +1251,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 30, Parl. Euro Trève 73 (TRI), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/74wrfo23ta14eat69urmznivr7kw68zf]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/74wrfo23ta14eat69urmznivr7kw68zf]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1265,7 +1265,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 32, Europa Building, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/15ma6iejw7bcfiftxoic4109if7talx4]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/15ma6iejw7bcfiftxoic4109if7talx4]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1279,7 +1279,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 34 OTAN-NAVO Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/oaucb64f3ofk6a2mxraxkf82xli91rl4]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/oaucb64f3ofk6a2mxraxkf82xli91rl4]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1293,7 +1293,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 36, Parl. Euro WIB-JAN-BQL, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/6l97gz0xh5jl6630pfrhg1u9g6fdlk2f]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/6l97gz0xh5jl6630pfrhg1u9g6fdlk2f]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1307,7 +1307,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 38 Cour des comptes Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/kclhd4nalkh0o9rqr36bt20ibmwe79mt]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kclhd4nalkh0o9rqr36bt20ibmwe79mt]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1321,7 +1321,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C2 - 40, Prison de Haren - Gevangenis van Haren, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/jgkiqz3mg8cl7fod44tkx5k3thavel8t]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jgkiqz3mg8cl7fod44tkx5k3thavel8t]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1335,7 +1335,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 01, Basilique de Koekelberg - Basiliek van Koekelberg, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/rl3e4zaofy9i67fn9ot50w8w4gjbskfo]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/rl3e4zaofy9i67fn9ot50w8w4gjbskfo]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1349,7 +1349,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 03, Parc des Expositions de Bxl (PEB), Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/tkuo86h08sb8jwieexyw7cpmelt0n2d9]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/tkuo86h08sb8jwieexyw7cpmelt0n2d9]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1363,7 +1363,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 05, Bibliothèque solvay, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/llg4xh7z9vnur83ha20h911xo2ur3arb]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/llg4xh7z9vnur83ha20h911xo2ur3arb]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1377,7 +1377,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 07, Tour &amp; Taxis - Thurn &amp; Taxis, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/u0wdgc5pdkq3mdzpur6q4bgjkow6hak1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/u0wdgc5pdkq3mdzpur6q4bgjkow6hak1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1391,7 +1391,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 09, Kinepolis Brussels, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/oj9umh8avb7tnf8ldj32funqq70yscqe]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/oj9umh8avb7tnf8ldj32funqq70yscqe]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1405,7 +1405,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 11, Stade-Stadion RSCA-Constant Vanden Stock, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/5x47su9af2bz77qk0hub560p41tmcimy]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5x47su9af2bz77qk0hub560p41tmcimy]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1419,7 +1419,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 13, Bibliothèque Royale de Belgique-Koninklijke Bibliotheek van Belgïe, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/w7oez84enn000h44a5m00lefjrkhv2qu]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/w7oez84enn000h44a5m00lefjrkhv2qu]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1433,7 +1433,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 15, Les Halles de Schaerbeek-De Hallen van Schaarbeek, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/pgrs65l8nlqaqimm7ga9fma18iw2g9yr]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/pgrs65l8nlqaqimm7ga9fma18iw2g9yr]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1447,7 +1447,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 17, La Monnaie-De Munt, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/x59nuea2sbnfjmq7syper3e5lw68d54g]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/x59nuea2sbnfjmq7syper3e5lw68d54g]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1461,7 +1461,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 19, Stade Joseph Marien Stadion, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/i37wyxa8nmm1jlvj9whvo8s4lo1mitmw]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/i37wyxa8nmm1jlvj9whvo8s4lo1mitmw]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1475,7 +1475,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 21, Cathédrale des St-Michel et Gudule- St-Michiels en Goedelekatedraal, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/fjjc9vj1b1u8em08do0lkfbnjakebqvr]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/fjjc9vj1b1u8em08do0lkfbnjakebqvr]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1489,7 +1489,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 23, Bozar, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/4mc7jxvxkfyhzkdfauasdeh2uhc04xjm]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4mc7jxvxkfyhzkdfauasdeh2uhc04xjm]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1503,7 +1503,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 25, Musées Royaux des Beaux-Arts - Koninklijke Musea voor Schone Kunsten, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/8pmenxr7b9mb4yuypc5quy0nvcmsbm0b]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/8pmenxr7b9mb4yuypc5quy0nvcmsbm0b]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1517,7 +1517,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C3 - 27, SportCity, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/g3n5kq7pl0z4bw0d9b8yzbimtjjpcub4]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/g3n5kq7pl0z4bw0d9b8yzbimtjjpcub4]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1531,7 +1531,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 01, Cora Anderlecht, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/rlhr00mu2y0qihrt31960p1eho2sj4jh]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/rlhr00mu2y0qihrt31960p1eho2sj4jh]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1545,7 +1545,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 03, Trade Mart Brussels, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/u55gsms05ssx5lfln907kap2cirov8wt]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/u55gsms05ssx5lfln907kap2cirov8wt]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1559,7 +1559,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 05, CEFL - ECFG - Centre Européen fruits légumes - Europees Centrum fruit groenten</name>
-		<description><![CDATA[description: https://app.box.com/s/uwp8ejhf5d93f1bp32t6q5gavuamjz9g]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/uwp8ejhf5d93f1bp32t6q5gavuamjz9g]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1573,7 +1573,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 07, DOCKS Brussels - ( Dockx), Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/wcspm5lugvv4x5a723ad0cnh2d1qqwfj]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/wcspm5lugvv4x5a723ad0cnh2d1qqwfj]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1587,7 +1587,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 09 Euroveiling Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/yoyjtgt7wbyg5ka69tuauyjgp7ee01hn]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/yoyjtgt7wbyg5ka69tuauyjgp7ee01hn]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1601,7 +1601,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C4 - 11, Woluwe Shopping Center, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/ghbrdhibyl9n0f6qb1owbcodu81rwbpb]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ghbrdhibyl9n0f6qb1owbcodu81rwbpb]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1615,7 +1615,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 02, Hotel Amigo, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/lrkbkmq2zzau7j3wao2yeak5btmsu3ao]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/lrkbkmq2zzau7j3wao2yeak5btmsu3ao]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1629,7 +1629,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 04, Thon Hotel Stanhope, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/p5w5tmzhlba1mx3hg2hbwarnpd0gwdg3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/p5w5tmzhlba1mx3hg2hbwarnpd0gwdg3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1643,7 +1643,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 06, THON Résidence Florence, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/5dxj75vjoa1cbcd6102rj1mdumb7hukd]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5dxj75vjoa1cbcd6102rj1mdumb7hukd]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1657,7 +1657,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 08, THON Hotel Bristol Stephanie, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/naz4pt5ay2etmeiqwpk35b9dfykke9z1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/naz4pt5ay2etmeiqwpk35b9dfykke9z1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1671,7 +1671,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 10, Sofitel Hotel, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/4q09ennkzonudq5p8ef95nlbm0rs8gyh]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4q09ennkzonudq5p8ef95nlbm0rs8gyh]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1685,7 +1685,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C5 - 12, Hotel Qbic, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/h2n16913319788yonhqdd93qvncgizvu]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/h2n16913319788yonhqdd93qvncgizvu]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1699,7 +1699,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 02, RTBF, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/4ik9478vzybg9aw2mfmutf75u88ovisd]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/4ik9478vzybg9aw2mfmutf75u88ovisd]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1713,7 +1713,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 04, Belgacom - Proximus (02 LIN), Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/ke2aomxm78k7seldst4hlmvhflkobufa]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ke2aomxm78k7seldst4hlmvhflkobufa]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1727,7 +1727,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 06, Philip Morris (Bureaux - Kantoren), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/5sejcefbng71us3ea2ubllaz3xs8lj7a]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/5sejcefbng71us3ea2ubllaz3xs8lj7a]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1741,7 +1741,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 08, Régie des Bâtiments - Regie der Gebouwen, Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/cccfbf5jm1l1usm3cuk3xp3r5oajt2ta]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/cccfbf5jm1l1usm3cuk3xp3r5oajt2ta]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1755,7 +1755,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 10, ONSS Place Victor Horta - RSZ Victor Hortaplein, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/vpe12mixihknkqs28jp1cln9me829692]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/vpe12mixihknkqs28jp1cln9me829692]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1769,7 +1769,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 13, AXA Belgium, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/ien0b0j7smlg26q88q1yd0x8l7o7omu9]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ien0b0j7smlg26q88q1yd0x8l7o7omu9]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1783,7 +1783,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 16, Atos Wordline, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/3318wfiecmgih0y8y79f5qjd9r39joi7]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/3318wfiecmgih0y8y79f5qjd9r39joi7]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1797,7 +1797,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 18, IC Verzekeringen N.V, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/d7zfdq6auj7bqewgfetm7a3n2ohgvqf0]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/d7zfdq6auj7bqewgfetm7a3n2ohgvqf0]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1811,7 +1811,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 20, Service fédéral des pensions-Pensioendienst, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/kayvaaa3xqlaqczfuu7m58fvybo66npf]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kayvaaa3xqlaqczfuu7m58fvybo66npf]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1825,7 +1825,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 22, La Régie des Routes-De regie der wegen, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/7nyw9nbh9q5drhf20ichewykd6g2sksz]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7nyw9nbh9q5drhf20ichewykd6g2sksz]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1839,7 +1839,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 24, Archives de l&apos;Etat - Algemeen Rijksfarchief, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/mhpgfykb4ee65phz64ryfohinshyljcv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/mhpgfykb4ee65phz64ryfohinshyljcv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1853,7 +1853,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 26, KBC avenue du port, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/jo76sq85e0xpa5bg4tzbtsfisfxa0uma]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jo76sq85e0xpa5bg4tzbtsfisfxa0uma]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1867,7 +1867,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C6 - 28, Iris Tower, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/xtwu5y6ckcbma1tq7r2djsmqcwe001gn]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/xtwu5y6ckcbma1tq7r2djsmqcwe001gn]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1881,7 +1881,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C7 - 02, Gare Maritime - Maritiem Station, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/nzc6la8w7u05m2b3cillfjkxpq6z10zw]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/nzc6la8w7u05m2b3cillfjkxpq6z10zw]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1895,7 +1895,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C7 - 05, Quatuor, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/gfzc8jv9q9v5d8o201gmf7hi4q5z9i2j]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/gfzc8jv9q9v5d8o201gmf7hi4q5z9i2j]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1909,7 +1909,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C7 - 08 Maison Ernest Solvay Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/ifm8ac36cmysjgub33legivuk51k4hqu]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ifm8ac36cmysjgub33legivuk51k4hqu]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1923,7 +1923,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 02, Ecole Européenne III (1050 Bxl) - Europese School III (1050 Bxl), Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/ck6olzphqe3yrvmdad5lj1ecrpmrmw2s]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ck6olzphqe3yrvmdad5lj1ecrpmrmw2s]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1937,7 +1937,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 04, Ecole Européenne I (1180 Bxl) - Europese School I (1180 Bxl), Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/p7ipl9j3rp9oo8qj8ucbyp4k502l3i5i]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/p7ipl9j3rp9oo8qj8ucbyp4k502l3i5i]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1951,7 +1951,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 06, CERIA - COOVI, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/3xtyyzm6kvnlqys5js7e19b12gi25ogo]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/3xtyyzm6kvnlqys5js7e19b12gi25ogo]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1965,7 +1965,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 09, Lycée Français Jean Monnet Frans Lyceum, Z.06</name>
-		<description><![CDATA[description: https://app.box.com/s/568pnjiza63anf5rhw133zlnjugpk1sl]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/568pnjiza63anf5rhw133zlnjugpk1sl]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1979,7 +1979,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 11, UCL (Université Catholique de Louvain), Z03</name>
-		<description><![CDATA[description: https://app.box.com/s/upcou8awlaf2nahu7uw4456wnfcd2zdm]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/upcou8awlaf2nahu7uw4456wnfcd2zdm]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -1993,7 +1993,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C8 - 13, Maison d&apos;Enfants Reine Marie-Henriette, Z.00</name>
-		<description><![CDATA[description: https://app.box.com/s/g95hin01zcojellz6h9adg26k587veox]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/g95hin01zcojellz6h9adg26k587veox]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2007,7 +2007,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 02, Bâtiment élevé - Av.Mahatma Gandhi Laan - Hoog gebouw, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/ge4yuosd5u7qrdu8fg8ggqrq40v9p3d3]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ge4yuosd5u7qrdu8fg8ggqrq40v9p3d3]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2021,7 +2021,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 04, Bâtiments élevés - Flagey - Hoge gebouwen, Z.05</name>
-		<description><![CDATA[description: https://app.box.com/s/kz5ug6boszljk8bk71wt4kxv7r5fpqtr]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/kz5ug6boszljk8bk71wt4kxv7r5fpqtr]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2035,7 +2035,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 06, Bâtiment élevé - Rue Georges Leclercq Straat - Hoog gebouw, Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/juym5g51gxr0ytydszwlgtnesyyy939k]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/juym5g51gxr0ytydszwlgtnesyyy939k]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2049,7 +2049,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 08, Bâtiment élevé - Rue du Moulin-Molenstraat - Hoog gebouw, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/7jslprzw3cw3nnflak0gr11vcwet4p7l]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7jslprzw3cw3nnflak0gr11vcwet4p7l]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2063,7 +2063,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 10, Bâtiment élevé - Av. Guillaume de Greef Laan - Hoog gebouw, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/61bbnfofuzujpkf08qp4mnveyu3d0j7w]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/61bbnfofuzujpkf08qp4mnveyu3d0j7w]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2077,7 +2077,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 12, Bâtiment élevé-R.des Fleuristes-Bloemistenstraat-Hoog gebouw,Z.07</name>
-		<description><![CDATA[description: https://app.box.com/s/7gwncuzo3iee7glu6mv5pint3yvv5r7k]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/7gwncuzo3iee7glu6mv5pint3yvv5r7k]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2091,7 +2091,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 14, Bâtiment élevé - Rue de la Colonne-Kolomstraat - Hoog Gebouw, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/fdcd50uzpv4v388ish6odt0sadubluqp]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/fdcd50uzpv4v388ish6odt0sadubluqp]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2105,7 +2105,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 16, Tour UpSite Toren, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/oxc7m8otvxaosjl6o3s5imt7sbpz6t7v]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/oxc7m8otvxaosjl6o3s5imt7sbpz6t7v]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2119,7 +2119,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 18 Bâtiment élevé Parc du Peterbos - Hoog gebouw Peterbospark Z.09</name>
-		<description><![CDATA[description: https://app.box.com/s/3439fd8s83kupnkv95nio0zg84vlztjb]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/3439fd8s83kupnkv95nio0zg84vlztjb]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2133,7 +2133,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 20, Bâtiment élevé - Henri Evenepoel 94-96 - Hoog gebouw, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/sqw708d1u9k1dedukjpbpw4g81czy7v0]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/sqw708d1u9k1dedukjpbpw4g81czy7v0]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2147,7 +2147,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 22, Bâtiment élevé - Mont-St-Lambert - St-Lambertusberg - Hoog gebouw</name>
-		<description><![CDATA[description: https://app.box.com/s/9opjuyqrd2qt7z7gw57f0ai50i5jcs94]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/9opjuyqrd2qt7z7gw57f0ai50i5jcs94]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2161,7 +2161,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 24, Bâtiment élevé Brusilia Hoog gebouw, Z.01</name>
-		<description><![CDATA[description: https://app.box.com/s/wvmzote44wuey56j51hr5iek8kqh12q2]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/wvmzote44wuey56j51hr5iek8kqh12q2]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2175,7 +2175,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C9 - 35, Bâtiment élevé - Tour Brunfaut - Hoog Gebouw, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/e3twpkh7wdaynrhavhdluvzxql55f9bc]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/e3twpkh7wdaynrhavhdluvzxql55f9bc]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2189,7 +2189,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>C10-02 Hébergement d&apos;urgence - Noodopvang, Bld Lambermont, Z.02</name>
-		<description><![CDATA[description: https://app.box.com/s/itjuo6ant4aoy9017ynt0j7qeqyxecr5]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/itjuo6ant4aoy9017ynt0j7qeqyxecr5]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2203,7 +2203,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 02 Les Venelles Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/jkaf1babrbgufp2997d0ofiikkz7dym1]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/jkaf1babrbgufp2997d0ofiikkz7dym1]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2217,7 +2217,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 04, Cité de logments Andromède, Z.03</name>
-		<description><![CDATA[description: https://app.box.com/s/73l59v9zgwzecyikx0e7nz78oibfoxuv]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/73l59v9zgwzecyikx0e7nz78oibfoxuv]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2231,7 +2231,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 06, Cité Modèle - Modelwijk, Z.11</name>
-		<description><![CDATA[description: https://app.box.com/s/iag0laaro8hdqu70c41nv70b0g32zhsq]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/iag0laaro8hdqu70c41nv70b0g32zhsq]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2245,7 +2245,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 08, Parking CHIREC - Delta Ouest, Z.04</name>
-		<description><![CDATA[description: https://app.box.com/s/hvqb5vne4hxqxblvhr0r4e6w39wv3crp]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/hvqb5vne4hxqxblvhr0r4e6w39wv3crp]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2259,7 +2259,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 10, Forêt de Soignes - Zonienwoud Z.04-05</name>
-		<description><![CDATA[description: https://app.box.com/s/ytkwcy4un2zzmz9abqsy7aytvwsaoi0x]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/ytkwcy4un2zzmz9abqsy7aytvwsaoi0x]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2273,7 +2273,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 12, Clos des Musiciens, Z.08</name>
-		<description><![CDATA[description: https://app.box.com/s/xe8pkh2ucors81o5kqz3a8fc34x0879b]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/xe8pkh2ucors81o5kqz3a8fc34x0879b]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2287,7 +2287,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 14, Quartier Tivoli, Z.12</name>
-		<description><![CDATA[description: https://app.box.com/s/cbpjl1hgrpzkit54y75v55qiu1ldn74q]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/cbpjl1hgrpzkit54y75v55qiu1ldn74q]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
@@ -2301,7 +2301,7 @@ A3 - 20, METRO Schuman, Z.03</name>
 	</Placemark>
 	<Placemark>
 		<name>D1 - 16, Immeuble de logements - Woonwijk Chaussée de Gand 340 Gentsesteenweg, Z.10</name>
-		<description><![CDATA[description: https://app.box.com/s/c3byydcxaau63jdcwpsksvx3p0974hq0]]>]]></description>
+		<description><![CDATA[description: https://app.box.com/s/c3byydcxaau63jdcwpsksvx3p0974hq0]]></description>
 		<Polygon>
 			<outerBoundaryIs>
 				<LinearRing>
