@@ -7,7 +7,7 @@
       "properties": {
         "name": "Barrière - Slagboom",
         "description": "Présence d'une barrière Aanwezigheid van een slagboom",
-        "categorie": "niet_toegankelijk",
+        "category": "inaccessible_barrier"
       },
       "geometry": {
         "type": "Point",
