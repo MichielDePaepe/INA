@@ -7,7 +7,8 @@
       "properties": {
         "name": "13",
         "icoon": "punt",
-        "categorie": "punt"
+        "categorie": "punt",
+        "symbolName": "point-blue"
       },
       "geometry": {
         "type": "Point",
@@ -22,8 +23,9 @@
       "properties": {
         "name": "Barrière - Slagboom",
         "description": "Présence d'une barrière Aanwezigheid van een slagboom",
-        "icoon": "niet_toegankelijk",
-        "categorie": "niet_toegankelijk"
+        "icoon": "BEREIKBAAR_Afsluiting Barriere",
+        "categorie": "niet_toegankelijk",
+        "symbolName": "BEREIKBAAR_Afsluiting Barriere"
       },
       "geometry": {
         "type": "Point",
