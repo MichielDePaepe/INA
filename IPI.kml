@@ -2350,10 +2350,8 @@ A3 - 20, METRO Schuman, Z.03</name>
 			<heading>-0.0251419542314782</heading>
 			<tilt>16.90505535048507</tilt>
 			<range>437.0114511551494</range>
-			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</LookAt>
 		<Point>
-			<gx:drawOrder>1</gx:drawOrder>
 			<coordinates>4.295400244536413,50.84130730960069,0</coordinates>
 		</Point>
 	</Placemark>
