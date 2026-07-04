@@ -4,6 +4,16 @@
 	<name>IPI</name>
 	<open>1</open>
 	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.7.1155"></atom:link>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
 	<StyleMap id="poly-FFEA00-1200-77">
 		<Pair>
 			<key>normal</key>
@@ -31,6 +41,22 @@
 		<PolyStyle>
 			<color>4d00eaff</color>
 		</PolyStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<Icon>
+			</Icon>
+		</IconStyle>
+		<ListStyle>
+		</ListStyle>
 	</Style>
 	<Placemark>
 		<name>A1 - 01, Aéroport de Bruxelles-National - Luchthaven van Brussel-Nationaal (Zaventem)</name>
@@ -22853,6 +22879,23 @@ A3 - 20, METRO Schuman, Z.03</name>
 				</LinearRing>
 			</outerBoundaryIs>
 		</Polygon>
+	</Placemark>
+	<Placemark>
+		<name>13</name>
+		<LookAt>
+			<longitude>4.295314420210428</longitude>
+			<latitude>50.84140336566536</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0251419542314782</heading>
+			<tilt>16.90505535048507</tilt>
+			<range>437.0114511551494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>4.295400244536413,50.84130730960069,0</coordinates>
+		</Point>
 	</Placemark>
 </Document>
 </kml>
