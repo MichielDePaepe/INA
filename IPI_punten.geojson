@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "name": "IPI_punten",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "13",
+        "icoon": "punt",
+        "categorie": "punt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.295385912361926,
+          50.84129192408676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrière - Slagboom",
+        "description": "Présence d'une barrière Aanwezigheid van een slagboom",
+        "icoon": "niet_toegankelijk",
+        "categorie": "niet_toegankelijk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.423825434240138,
+          50.90108486445515
+        ]
+      }
+    }
+  ]
+}
