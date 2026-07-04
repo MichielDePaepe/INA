@@ -6,7 +6,7 @@
       "type": "Feature",
       "properties": {
         "name": "A1 - 01, Aéroport de Bruxelles-National - Luchthaven van Brussel-Nationaal (Zaventem)",
-        "url": "https://app.box.com/s/kfirozmr6r4p3s3uwfvaj6n6y1a56vqq"
+        "description": "https://app.box.com/s/kfirozmr6r4p3s3uwfvaj6n6y1a56vqq"
       },
       "geometry": {
         "type": "Polygon",
@@ -72,7 +72,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 01 Jonction Tunnel Bruxelles Nord-Midi Z.01",
-        "url": "https://app.box.com/s/8s6kr0j0s9qv8bg9ero5zhidr68szfjl"
+        "description": "https://app.box.com/s/8s6kr0j0s9qv8bg9ero5zhidr68szfjl"
       },
       "geometry": {
         "type": "Polygon",
@@ -246,7 +246,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 02, Gare de Bxl-Nord-Station Brussel-Noord, Z.01",
-        "url": "https://app.box.com/s/togj0o5g2xr2tvy9wwgu5vuh4wh5nzka"
+        "description": "https://app.box.com/s/togj0o5g2xr2tvy9wwgu5vuh4wh5nzka"
       },
       "geometry": {
         "type": "Polygon",
@@ -296,7 +296,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 03, Gare BXL Congrès, Z.00",
-        "url": "https://app.box.com/s/6ppvryc0pftngj5304reewayfu16l3zt"
+        "description": "https://app.box.com/s/6ppvryc0pftngj5304reewayfu16l3zt"
       },
       "geometry": {
         "type": "Polygon",
@@ -330,7 +330,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 04, Gare Centrale, Z.00",
-        "url": "https://app.box.com/s/tpivpy2dpfiup36bxb0i1s50vd55a2d4"
+        "description": "https://app.box.com/s/tpivpy2dpfiup36bxb0i1s50vd55a2d4"
       },
       "geometry": {
         "type": "Polygon",
@@ -372,7 +372,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 05, Gare Bxl-Chapelle, Z.00",
-        "url": "https://app.box.com/s/6q7y86ufs8ngmfk9xgzs6e96tomhicpt"
+        "description": "https://app.box.com/s/6q7y86ufs8ngmfk9xgzs6e96tomhicpt"
       },
       "geometry": {
         "type": "Polygon",
@@ -410,7 +410,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 06, Gare du Midi, Z.08",
-        "url": "https://app.box.com/s/q7lak433uux6f98d247ieyqgjgd87nsg"
+        "description": "https://app.box.com/s/q7lak433uux6f98d247ieyqgjgd87nsg"
       },
       "geometry": {
         "type": "Polygon",
@@ -476,7 +476,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 07, Gare de Bxl-Lux Station, Z.04",
-        "url": "https://app.box.com/s/p9kwt304ob3vjvmg63ze16b6q0tq7w7d"
+        "description": "https://app.box.com/s/p9kwt304ob3vjvmg63ze16b6q0tq7w7d"
       },
       "geometry": {
         "type": "Polygon",
@@ -582,7 +582,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 08, Gare de Bxl-Schuman Station, Z.03 + A3 - 20, METRO Schuman, Z.03",
-        "url": "https://app.box.com/s/yn0h2ld4sj3xr7lt262rhnllxfadqwha"
+        "description": "https://app.box.com/s/yn0h2ld4sj3xr7lt262rhnllxfadqwha"
       },
       "geometry": {
         "type": "Polygon",
@@ -668,7 +668,7 @@
       "type": "Feature",
       "properties": {
         "name": "A2 - 09, Gare de formation de Schaerbeek - Vormingsstation van Schaarbeek, Z.01",
-        "url": "https://app.box.com/s/gchl8fo960wcfdaqfj112n80ug8u19d1"
+        "description": "https://app.box.com/s/gchl8fo960wcfdaqfj112n80ug8u19d1"
       },
       "geometry": {
         "type": "Polygon",
@@ -778,7 +778,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 01, METRO Erasme - Erasmus, Z.08",
-        "url": "https://app.box.com/s/5tdyivl6o1b6kgfkv46ykvl08oc5qpe7"
+        "description": "https://app.box.com/s/5tdyivl6o1b6kgfkv46ykvl08oc5qpe7"
       },
       "geometry": {
         "type": "Polygon",
@@ -812,7 +812,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 02, METRO Eddy Merckx, Z.08",
-        "url": "https://app.box.com/s/p2j2wghlq6e3ah69951pqcewfl52ia0r"
+        "description": "https://app.box.com/s/p2j2wghlq6e3ah69951pqcewfl52ia0r"
       },
       "geometry": {
         "type": "Polygon",
@@ -878,7 +878,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 03, METRO Céria - Coovi, Z.08",
-        "url": "https://app.box.com/s/bv7lglmb38k9zsnqdsz35t890t60wg3r"
+        "description": "https://app.box.com/s/bv7lglmb38k9zsnqdsz35t890t60wg3r"
       },
       "geometry": {
         "type": "Polygon",
@@ -912,7 +912,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 04, METRO La Roue - Het Rad, Z.08",
-        "url": "https://app.box.com/s/o1wawjpqjtmye00qyebntue1emf5gltj"
+        "description": "https://app.box.com/s/o1wawjpqjtmye00qyebntue1emf5gltj"
       },
       "geometry": {
         "type": "Polygon",
@@ -946,7 +946,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 05, METRO Bizet, Z.08",
-        "url": "https://app.box.com/s/xa93j8nqo6cgjiumpgaj8beet0tsve15"
+        "description": "https://app.box.com/s/xa93j8nqo6cgjiumpgaj8beet0tsve15"
       },
       "geometry": {
         "type": "Polygon",
@@ -980,7 +980,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 06, METRO Veeweyde - Veeweide, Z.08",
-        "url": "https://app.box.com/s/31jeyihr2kudq5ufli98i6722wxaag53"
+        "description": "https://app.box.com/s/31jeyihr2kudq5ufli98i6722wxaag53"
       },
       "geometry": {
         "type": "Polygon",
@@ -1022,7 +1022,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 07, METRO Saint-Guidon - Sint-Guido, Z.08",
-        "url": "https://app.box.com/s/exnfkgxam7y09ul256cndu9vp12yebnq"
+        "description": "https://app.box.com/s/exnfkgxam7y09ul256cndu9vp12yebnq"
       },
       "geometry": {
         "type": "Polygon",
@@ -1092,7 +1092,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 08, METRO Aumale, Z.08",
-        "url": "https://app.box.com/s/y6ulgkj0o9rk1r2vwpjzy0sgab1htvln"
+        "description": "https://app.box.com/s/y6ulgkj0o9rk1r2vwpjzy0sgab1htvln"
       },
       "geometry": {
         "type": "Polygon",
@@ -1142,7 +1142,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 09, METRO Jacques Brel, Z.09",
-        "url": "https://app.box.com/s/k2hw494ikp8eatpxy6gd9ch4yuhx201d"
+        "description": "https://app.box.com/s/k2hw494ikp8eatpxy6gd9ch4yuhx201d"
       },
       "geometry": {
         "type": "Polygon",
@@ -1188,7 +1188,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 10, METRO Gare de l'Ouest-Westsatation, Z.09",
-        "url": "https://app.box.com/s/cm8ugcq02smz0x309j038fslb292fvxf"
+        "description": "https://app.box.com/s/cm8ugcq02smz0x309j038fslb292fvxf"
       },
       "geometry": {
         "type": "Polygon",
@@ -1222,7 +1222,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 11, METRO Beekkant, Z.10",
-        "url": "https://app.box.com/s/xk5410kmdjskns2hb876kyjzjoy0m3gf"
+        "description": "https://app.box.com/s/xk5410kmdjskns2hb876kyjzjoy0m3gf"
       },
       "geometry": {
         "type": "Polygon",
@@ -1280,7 +1280,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 12, METRO Etangs Noirs-Zwarte Vijvers, Z.10",
-        "url": "https://app.box.com/s/bss5q8cfgcz3jna7zslfudtgnvj8pwtz"
+        "description": "https://app.box.com/s/bss5q8cfgcz3jna7zslfudtgnvj8pwtz"
       },
       "geometry": {
         "type": "Polygon",
@@ -1314,7 +1314,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 13, METRO Comte de Flandre-Graaf van Vlaanderen, Z.11",
-        "url": "https://app.box.com/s/djo7me5k2ql92747w69gdqu2jd4emz4s"
+        "description": "https://app.box.com/s/djo7me5k2ql92747w69gdqu2jd4emz4s"
       },
       "geometry": {
         "type": "Polygon",
@@ -1348,7 +1348,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 14, METRO Sainte-Catherine - Sint-Kathelijne, Z.00",
-        "url": "https://app.box.com/s/28s71em3pucvzj11i0ssv329vssyzu69"
+        "description": "https://app.box.com/s/28s71em3pucvzj11i0ssv329vssyzu69"
       },
       "geometry": {
         "type": "Polygon",
@@ -1382,7 +1382,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 15, METRO De Brouckère, Z.00",
-        "url": "https://app.box.com/s/5ntwwysmxyk76touubbpfgg6smv59ey7"
+        "description": "https://app.box.com/s/5ntwwysmxyk76touubbpfgg6smv59ey7"
       },
       "geometry": {
         "type": "Polygon",
@@ -1440,7 +1440,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 16, METRO Gare Centrale-Centraal Station, Z.00",
-        "url": "https://app.box.com/s/jeszv83u47faz896asszs6v1brpdqfpg"
+        "description": "https://app.box.com/s/jeszv83u47faz896asszs6v1brpdqfpg"
       },
       "geometry": {
         "type": "Polygon",
@@ -1562,7 +1562,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 17, METRO Parc-Park, Z.00",
-        "url": "https://app.box.com/s/3lqj223na7jn208y82jnsqtwx3urond5"
+        "description": "https://app.box.com/s/3lqj223na7jn208y82jnsqtwx3urond5"
       },
       "geometry": {
         "type": "Polygon",
@@ -1596,7 +1596,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 18, METRO Arts-Loi - Kunst-Wet, Z.00",
-        "url": "https://app.box.com/s/xtvm43x9j14tt2zduh0pj9fohv07jl1v"
+        "description": "https://app.box.com/s/xtvm43x9j14tt2zduh0pj9fohv07jl1v"
       },
       "geometry": {
         "type": "Polygon",
@@ -1662,7 +1662,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 19, METRO Maelbeek-Maalbeek, Z.03",
-        "url": "https://app.box.com/s/s30wmjy891h9kt6z5a3xba69csb3nd6r"
+        "description": "https://app.box.com/s/s30wmjy891h9kt6z5a3xba69csb3nd6r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1696,7 +1696,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 21, METRO Merode, Z.03",
-        "url": "https://app.box.com/s/ajymrb3s4tas5qz7zf4mlavqffav4iyj"
+        "description": "https://app.box.com/s/ajymrb3s4tas5qz7zf4mlavqffav4iyj"
       },
       "geometry": {
         "type": "Polygon",
@@ -1734,7 +1734,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 22, METRO Thieffry, Z.04",
-        "url": "https://app.box.com/s/3akvjtspzsn0bzaj7x1ifyjjspokg85m"
+        "description": "https://app.box.com/s/3akvjtspzsn0bzaj7x1ifyjjspokg85m"
       },
       "geometry": {
         "type": "Polygon",
@@ -1768,7 +1768,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 23, METRO Pétillon, Z.04",
-        "url": "https://app.box.com/s/5mdyuhpg9e3t4t4fh1qjn5gtmetzcfmo"
+        "description": "https://app.box.com/s/5mdyuhpg9e3t4t4fh1qjn5gtmetzcfmo"
       },
       "geometry": {
         "type": "Polygon",
@@ -1802,7 +1802,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 24, METRO Hankar, Z.04",
-        "url": "https://app.box.com/s/4f864tt3skaw2pxrsn8chra0h4091ozf"
+        "description": "https://app.box.com/s/4f864tt3skaw2pxrsn8chra0h4091ozf"
       },
       "geometry": {
         "type": "Polygon",
@@ -1880,7 +1880,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 25, METRO Delta, Z.04",
-        "url": "https://app.box.com/s/tdku7ka0os2dq1tmwlf6vz0miwpdwjn9"
+        "description": "https://app.box.com/s/tdku7ka0os2dq1tmwlf6vz0miwpdwjn9"
       },
       "geometry": {
         "type": "Polygon",
@@ -1946,7 +1946,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 26, METRO Beaulieu, Z.04",
-        "url": "https://app.box.com/s/m35spb9zewq4uumahgg2d6ampawva95r"
+        "description": "https://app.box.com/s/m35spb9zewq4uumahgg2d6ampawva95r"
       },
       "geometry": {
         "type": "Polygon",
@@ -1988,7 +1988,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 27, METRO Demey, Z.04",
-        "url": "https://app.box.com/s/e4s21uz059mafem9ur3w55ts7y53hnuv"
+        "description": "https://app.box.com/s/e4s21uz059mafem9ur3w55ts7y53hnuv"
       },
       "geometry": {
         "type": "Polygon",
@@ -2030,7 +2030,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 28, METRO Herrmann-Debroux, Z.04",
-        "url": "https://app.box.com/s/kztp540g7klhaek27ot9krat54g3sgxh"
+        "description": "https://app.box.com/s/kztp540g7klhaek27ot9krat54g3sgxh"
       },
       "geometry": {
         "type": "Polygon",
@@ -2088,7 +2088,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 29, METRO Montgomery, Z.03",
-        "url": "https://app.box.com/s/kafue1jx7sajfdmq71dv9rpxmjtrt3il"
+        "description": "https://app.box.com/s/kafue1jx7sajfdmq71dv9rpxmjtrt3il"
       },
       "geometry": {
         "type": "Polygon",
@@ -2166,7 +2166,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 30, METRO Joséphine-Charlotte, Z.03",
-        "url": "https://app.box.com/s/guw962y9tnarbwhr4c5ol3tain2uivw3"
+        "description": "https://app.box.com/s/guw962y9tnarbwhr4c5ol3tain2uivw3"
       },
       "geometry": {
         "type": "Polygon",
@@ -2200,7 +2200,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 31, METRO Gribaumont, Z.03",
-        "url": "https://app.box.com/s/hn7x0f22rq3mx51sjdzhhe851yb25rt1"
+        "description": "https://app.box.com/s/hn7x0f22rq3mx51sjdzhhe851yb25rt1"
       },
       "geometry": {
         "type": "Polygon",
@@ -2262,7 +2262,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 32, METRO Tomberg, Z.03",
-        "url": "https://app.box.com/s/ah3z6ps686ir0zqa0durcuocf5bgx9i0"
+        "description": "https://app.box.com/s/ah3z6ps686ir0zqa0durcuocf5bgx9i0"
       },
       "geometry": {
         "type": "Polygon",
@@ -2328,7 +2328,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 33, METRO Roodebeek, Z.03",
-        "url": "https://app.box.com/s/jub6qkh65suxnxcnk28qx20xroi2006d"
+        "description": "https://app.box.com/s/jub6qkh65suxnxcnk28qx20xroi2006d"
       },
       "geometry": {
         "type": "Polygon",
@@ -2378,7 +2378,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 34, METRO Vandervelde, Z.03",
-        "url": "https://app.box.com/s/cu369hhkfmugdq1xp5ny398a3ltxvco6"
+        "description": "https://app.box.com/s/cu369hhkfmugdq1xp5ny398a3ltxvco6"
       },
       "geometry": {
         "type": "Polygon",
@@ -2436,7 +2436,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 35, METRO Alma, Z.03",
-        "url": "https://app.box.com/s/jmhaxzmy8neg3yuunvmx753vw11pdxzk"
+        "description": "https://app.box.com/s/jmhaxzmy8neg3yuunvmx753vw11pdxzk"
       },
       "geometry": {
         "type": "Polygon",
@@ -2478,7 +2478,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 36, METRO Crainhem - Kraainem, Z.03",
-        "url": "https://app.box.com/s/7pl6huqisi8y86tdj88gr4knam70n43x"
+        "description": "https://app.box.com/s/7pl6huqisi8y86tdj88gr4knam70n43x"
       },
       "geometry": {
         "type": "Polygon",
@@ -2512,7 +2512,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 37, METRO Stockel - Stokkel, Z.03",
-        "url": "https://app.box.com/s/7ew2j5wmw8zl78wfulf9e987lt37mdwb"
+        "description": "https://app.box.com/s/7ew2j5wmw8zl78wfulf9e987lt37mdwb"
       },
       "geometry": {
         "type": "Polygon",
@@ -2598,7 +2598,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 38, METRO Simonis, Z.11",
-        "url": "https://app.box.com/s/wb8bnjzkhjjdpqp6wdobm9wdagqxdtyx"
+        "description": "https://app.box.com/s/wb8bnjzkhjjdpqp6wdobm9wdagqxdtyx"
       },
       "geometry": {
         "type": "Polygon",
@@ -2680,7 +2680,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 39, METRO Ribaucourt, Z.11",
-        "url": "https://app.box.com/s/fcp1t6azdcgqklshuzq2ci4s2kfvc9xb"
+        "description": "https://app.box.com/s/fcp1t6azdcgqklshuzq2ci4s2kfvc9xb"
       },
       "geometry": {
         "type": "Polygon",
@@ -2714,7 +2714,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 40, METRO Yser-Ijzer, Z.12",
-        "url": "https://app.box.com/s/lsad96fhl3zoixpbzvyjwer8cxdmsfwq"
+        "description": "https://app.box.com/s/lsad96fhl3zoixpbzvyjwer8cxdmsfwq"
       },
       "geometry": {
         "type": "Polygon",
@@ -2772,7 +2772,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 41, METRO Rogier, Z.00",
-        "url": "https://app.box.com/s/qeoetv86my6qt4zvygp2286fv4k93nij"
+        "description": "https://app.box.com/s/qeoetv86my6qt4zvygp2286fv4k93nij"
       },
       "geometry": {
         "type": "Polygon",
@@ -2838,7 +2838,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 42, METRO Botanique-Kruidtuin, Z.02",
-        "url": "https://app.box.com/s/etti3xi3qxlqwx35w92i0w14x8kqv5dr"
+        "description": "https://app.box.com/s/etti3xi3qxlqwx35w92i0w14x8kqv5dr"
       },
       "geometry": {
         "type": "Polygon",
@@ -2888,7 +2888,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 43, METRO Madou, Z.02",
-        "url": "https://app.box.com/s/tqf25hhuov47nwhvsn2ulnw00aenrhvv"
+        "description": "https://app.box.com/s/tqf25hhuov47nwhvsn2ulnw00aenrhvv"
       },
       "geometry": {
         "type": "Polygon",
@@ -2954,7 +2954,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 44, METRO Trône-Troon, Z.04",
-        "url": "https://app.box.com/s/zdi7kxl2cvv543793tvs6rrrqvjldcwk"
+        "description": "https://app.box.com/s/zdi7kxl2cvv543793tvs6rrrqvjldcwk"
       },
       "geometry": {
         "type": "Polygon",
@@ -2996,7 +2996,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 45, METRO Porte de Namur-Naamsepoort, Z.05",
-        "url": "https://app.box.com/s/l3miccdxpow18ohs1otm7s2bp1wwkmh2"
+        "description": "https://app.box.com/s/l3miccdxpow18ohs1otm7s2bp1wwkmh2"
       },
       "geometry": {
         "type": "Polygon",
@@ -3062,7 +3062,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 46, METRO Louise-Louiza, Z.06",
-        "url": "https://app.box.com/s/eoeukv8w3vpaeyu5exft64cilajdey4w"
+        "description": "https://app.box.com/s/eoeukv8w3vpaeyu5exft64cilajdey4w"
       },
       "geometry": {
         "type": "Polygon",
@@ -3112,7 +3112,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 47, METRO Hötel des Monnaies-Munthof, Z.00",
-        "url": "https://app.box.com/s/jsqs8lu9dwk0kmni6bheowv4q89z8f85"
+        "description": "https://app.box.com/s/jsqs8lu9dwk0kmni6bheowv4q89z8f85"
       },
       "geometry": {
         "type": "Polygon",
@@ -3154,7 +3154,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 48, METRO Porte de Hal-Hallepoort, Z.07",
-        "url": "https://app.box.com/s/2bku9uf9hjwgpnrf39jko6kbwcb3cs3l"
+        "description": "https://app.box.com/s/2bku9uf9hjwgpnrf39jko6kbwcb3cs3l"
       },
       "geometry": {
         "type": "Polygon",
@@ -3224,7 +3224,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 49, METRO Gare du Midi-Zuidstation, Z.07",
-        "url": "https://app.box.com/s/ihe01a2q8qhgebus03hca9t242zg5d2e"
+        "description": "https://app.box.com/s/ihe01a2q8qhgebus03hca9t242zg5d2e"
       },
       "geometry": {
         "type": "Polygon",
@@ -3294,7 +3294,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 50, METRO Clemenceau, Z.08",
-        "url": "https://app.box.com/s/kecnlx8s28uhcjwvbgk3fyx3ogedytlb"
+        "description": "https://app.box.com/s/kecnlx8s28uhcjwvbgk3fyx3ogedytlb"
       },
       "geometry": {
         "type": "Polygon",
@@ -3328,7 +3328,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 51, METRO Delacroix, Z.09",
-        "url": "https://app.box.com/s/pb04nobr2v8amkrc1k6gyvtvza9n0w6a"
+        "description": "https://app.box.com/s/pb04nobr2v8amkrc1k6gyvtvza9n0w6a"
       },
       "geometry": {
         "type": "Polygon",
@@ -3366,7 +3366,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 52, METRO Osseghem-Ossegem, Z.10",
-        "url": "https://app.box.com/s/9vo6czra4zbk3q3sh2zd7xj3hr6zhw8p"
+        "description": "https://app.box.com/s/9vo6czra4zbk3q3sh2zd7xj3hr6zhw8p"
       },
       "geometry": {
         "type": "Polygon",
@@ -3428,7 +3428,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 53, METRO Belgica, Z.11",
-        "url": "https://app.box.com/s/4ndnyr0xwgqwc5hbpk54g4l1gif87s16"
+        "description": "https://app.box.com/s/4ndnyr0xwgqwc5hbpk54g4l1gif87s16"
       },
       "geometry": {
         "type": "Polygon",
@@ -3478,7 +3478,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 54, METRO Pannenhuis, Z.12",
-        "url": "https://app.box.com/s/zstjj6gyh2siihk004dwe3dc9rn07bgn"
+        "description": "https://app.box.com/s/zstjj6gyh2siihk004dwe3dc9rn07bgn"
       },
       "geometry": {
         "type": "Polygon",
@@ -3516,7 +3516,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 55, METRO Bockstael, Z.12",
-        "url": "https://app.box.com/s/cz8oj2w8uxajgwebcdojjiaev7hluue6"
+        "description": "https://app.box.com/s/cz8oj2w8uxajgwebcdojjiaev7hluue6"
       },
       "geometry": {
         "type": "Polygon",
@@ -3626,7 +3626,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 56, METRO Stuyvenbergh, Z.12",
-        "url": "https://app.box.com/s/11ipryxa1ab28g6v9f0j7qng4zqp1q5y"
+        "description": "https://app.box.com/s/11ipryxa1ab28g6v9f0j7qng4zqp1q5y"
       },
       "geometry": {
         "type": "Polygon",
@@ -3696,7 +3696,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 57, METRO Houba-Brugmann, Z.12",
-        "url": "https://app.box.com/s/nz1b8dg3g974sw7m7arobu41zz9t32gk"
+        "description": "https://app.box.com/s/nz1b8dg3g974sw7m7arobu41zz9t32gk"
       },
       "geometry": {
         "type": "Polygon",
@@ -3774,7 +3774,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 58, METRO Heysel-Heizel, Z.12",
-        "url": "https://app.box.com/s/lrbyq1mw5ipkqgza8o3l278biqisr0xu"
+        "description": "https://app.box.com/s/lrbyq1mw5ipkqgza8o3l278biqisr0xu"
       },
       "geometry": {
         "type": "Polygon",
@@ -3808,7 +3808,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 59, METRO Roi Baudouin-Koning Boudewijn, Z.11",
-        "url": "https://app.box.com/s/ihwx3ltpmy5c8i84uj0mz3633qarhapn"
+        "description": "https://app.box.com/s/ihwx3ltpmy5c8i84uj0mz3633qarhapn"
       },
       "geometry": {
         "type": "Polygon",
@@ -3874,7 +3874,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 60, METRO Diamant, Z.03.",
-        "url": "https://app.box.com/s/3eyyod3p37xupz68mk7zdplwhakibyny"
+        "description": "https://app.box.com/s/3eyyod3p37xupz68mk7zdplwhakibyny"
       },
       "geometry": {
         "type": "Polygon",
@@ -3920,7 +3920,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 61, METRO Georges-Henri, Z.03",
-        "url": "https://app.box.com/s/4owfrsbk8esnd7blumcmu5in5k6jkb4z"
+        "description": "https://app.box.com/s/4owfrsbk8esnd7blumcmu5in5k6jkb4z"
       },
       "geometry": {
         "type": "Polygon",
@@ -3966,7 +3966,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 62, METRO Boileau, Z.04",
-        "url": "https://app.box.com/s/8y9ybm7akgg0qyx18o9or7ivei9gwjyu"
+        "description": "https://app.box.com/s/8y9ybm7akgg0qyx18o9or7ivei9gwjyu"
       },
       "geometry": {
         "type": "Polygon",
@@ -4032,7 +4032,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 63, METRO Albert, Z.07",
-        "url": "https://app.box.com/s/4agnh91m8xje7nd93j7xv9qhr8ahds2h"
+        "description": "https://app.box.com/s/4agnh91m8xje7nd93j7xv9qhr8ahds2h"
       },
       "geometry": {
         "type": "Polygon",
@@ -4106,7 +4106,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 64, METRO Horta, Z.06",
-        "url": "https://app.box.com/s/pkjrt0vnv79xwo1siupeyhgqaontkewv"
+        "description": "https://app.box.com/s/pkjrt0vnv79xwo1siupeyhgqaontkewv"
       },
       "geometry": {
         "type": "Polygon",
@@ -4172,7 +4172,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 65, METRO Parvis St-Gilles - St-Gillis Voorplein, Z.07",
-        "url": "https://app.box.com/s/8j26upl2gc1484rftozq8ib4zr9avnc9"
+        "description": "https://app.box.com/s/8j26upl2gc1484rftozq8ib4zr9avnc9"
       },
       "geometry": {
         "type": "Polygon",
@@ -4206,7 +4206,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 66, METRO Lemonnier, Z.00",
-        "url": "https://app.box.com/s/9s2977z5q8dri7k7qjlgjr03ahe6qwbk"
+        "description": "https://app.box.com/s/9s2977z5q8dri7k7qjlgjr03ahe6qwbk"
       },
       "geometry": {
         "type": "Polygon",
@@ -4240,7 +4240,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 67, METRO Anneessens, Z.00",
-        "url": "https://app.box.com/s/q1qkjqgbfxo6dfyytonnos7hohqnp5ph"
+        "description": "https://app.box.com/s/q1qkjqgbfxo6dfyytonnos7hohqnp5ph"
       },
       "geometry": {
         "type": "Polygon",
@@ -4274,7 +4274,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 68, METRO Bourse - Beurs, Z.00",
-        "url": "https://app.box.com/s/yu010wujs7zs6tokzoouo8vvmu2xnlne"
+        "description": "https://app.box.com/s/yu010wujs7zs6tokzoouo8vvmu2xnlne"
       },
       "geometry": {
         "type": "Polygon",
@@ -4324,7 +4324,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 69, METRO Gare du Nord-Noordstation, Z.01",
-        "url": "https://app.box.com/s/mcs3mhpwrlhpa0is6dkfmgjr2cbh5khi"
+        "description": "https://app.box.com/s/mcs3mhpwrlhpa0is6dkfmgjr2cbh5khi"
       },
       "geometry": {
         "type": "Polygon",
@@ -4358,7 +4358,7 @@
       "type": "Feature",
       "properties": {
         "name": "A3 - 70 Dépôt STIB Haren Z. 01",
-        "url": "https://app.box.com/s/kmuuc71mwiblvogsiyj2khyy1p47h8xz"
+        "description": "https://app.box.com/s/kmuuc71mwiblvogsiyj2khyy1p47h8xz"
       },
       "geometry": {
         "type": "Polygon",
@@ -4448,7 +4448,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 01 Tunnel Annie Cordy Z.10",
-        "url": "https://app.box.com/s/a9ryhf0tc6580nmtuc7he8v405owtba8"
+        "description": "https://app.box.com/s/a9ryhf0tc6580nmtuc7he8v405owtba8"
       },
       "geometry": {
         "type": "Polygon",
@@ -4562,7 +4562,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 02, TUNNEL Belliard, Z.04",
-        "url": "https://app.box.com/s/hb2d6io227m5f0yzf98kicgij82gdoxm"
+        "description": "https://app.box.com/s/hb2d6io227m5f0yzf98kicgij82gdoxm"
       },
       "geometry": {
         "type": "Polygon",
@@ -4768,7 +4768,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 03, TUNNEL Porte de Hal-Hallepoort, Z.00",
-        "url": "https://app.box.com/s/02ztdrehqvrqkbekdw4f68f2k4kmcj18"
+        "description": "https://app.box.com/s/02ztdrehqvrqkbekdw4f68f2k4kmcj18"
       },
       "geometry": {
         "type": "Polygon",
@@ -4882,7 +4882,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 04, TUNNEL Reyers-Centre, Z.03",
-        "url": "https://app.box.com/s/rx8g71cz2l11n6g43ewk7hh7ha72w1fj"
+        "description": "https://app.box.com/s/rx8g71cz2l11n6g43ewk7hh7ha72w1fj"
       },
       "geometry": {
         "type": "Polygon",
@@ -4956,7 +4956,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 05, TUNNEL Louise-Stephanie, Z.05",
-        "url": "https://app.box.com/s/qnyylkzbrruc86hzayh428vd2i5m2zmf"
+        "description": "https://app.box.com/s/qnyylkzbrruc86hzayh428vd2i5m2zmf"
       },
       "geometry": {
         "type": "Polygon",
@@ -5058,7 +5058,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 06, TUNNEL Rogier, Z.01",
-        "url": "https://app.box.com/s/b7bs7swzm4nj6vfwsjn3bs9ifyw022b1"
+        "description": "https://app.box.com/s/b7bs7swzm4nj6vfwsjn3bs9ifyw022b1"
       },
       "geometry": {
         "type": "Polygon",
@@ -5124,7 +5124,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 07, TUNNEL Montgomery, Z.03-DELTA",
-        "url": "https://app.box.com/s/d42m3sn6tqliesxq6z7p3bv63gs7u8ph"
+        "description": "https://app.box.com/s/d42m3sn6tqliesxq6z7p3bv63gs7u8ph"
       },
       "geometry": {
         "type": "Polygon",
@@ -5214,7 +5214,7 @@
       "type": "Feature",
       "properties": {
         "name": "A4 - 08, Vierarmentunnel, Z.04",
-        "url": "https://app.box.com/s/qontequwnsu61uvei9hxgmd9jtgr5421"
+        "description": "https://app.box.com/s/qontequwnsu61uvei9hxgmd9jtgr5421"
       },
       "geometry": {
         "type": "Polygon",
@@ -5256,7 +5256,7 @@
       "type": "Feature",
       "properties": {
         "name": "A5 - 04, Station d'épuration Bxl-Sud - Zuiveringsinstallatie Zuid-Bxl, Z.07",
-        "url": "https://app.box.com/s/9xjfmyuog9bfp22i9oc65u616inc0hzv"
+        "description": "https://app.box.com/s/9xjfmyuog9bfp22i9oc65u616inc0hzv"
       },
       "geometry": {
         "type": "Polygon",
@@ -5346,7 +5346,7 @@
       "type": "Feature",
       "properties": {
         "name": "A5 - 01, Aquiris, Z.01",
-        "url": "https://app.box.com/s/jxpmty63dg40gnalh5rrd984rzj3u9b4"
+        "description": "https://app.box.com/s/jxpmty63dg40gnalh5rrd984rzj3u9b4"
       },
       "geometry": {
         "type": "Polygon",
@@ -5460,7 +5460,7 @@
       "type": "Feature",
       "properties": {
         "name": "B1 - 01, COTANCO II SEVESO, Z.08",
-        "url": "https://app.box.com/s/yeqhuaf3iiomo1d905macffdy4u3d4a2"
+        "description": "https://app.box.com/s/yeqhuaf3iiomo1d905macffdy4u3d4a2"
       },
       "geometry": {
         "type": "Polygon",
@@ -5514,7 +5514,7 @@
       "type": "Feature",
       "properties": {
         "name": "B1 - 02, CYTEC SEVESO II, Z.XX",
-        "url": "https://app.box.com/s/nz9c2yln7sqhaw6wixtgb4znchkgvirh"
+        "description": "https://app.box.com/s/nz9c2yln7sqhaw6wixtgb4znchkgvirh"
       },
       "geometry": {
         "type": "Polygon",
@@ -5616,7 +5616,7 @@
       "type": "Feature",
       "properties": {
         "name": "B1 - 03, Comfort Energy SEVESO II, Z.08",
-        "url": "https://app.box.com/s/p0tcfm3d6xhes1pq3pl2lyl1dwn4s3mq"
+        "description": "https://app.box.com/s/p0tcfm3d6xhes1pq3pl2lyl1dwn4s3mq"
       },
       "geometry": {
         "type": "Polygon",
@@ -5650,7 +5650,7 @@
       "type": "Feature",
       "properties": {
         "name": "B1- 05 TOTAL - SEVESO II Z.01",
-        "url": "https://app.box.com/s/1xqqickg9uktr0yjyfknu0jgttiaq955"
+        "description": "https://app.box.com/s/1xqqickg9uktr0yjyfknu0jgttiaq955"
       },
       "geometry": {
         "type": "Polygon",
@@ -5740,7 +5740,7 @@
       "type": "Feature",
       "properties": {
         "name": "B1 - 04, Lukoil (ex. Jet, ex. Seca) - SEVESO - Dépôt pétrolier - Tankpark, Z.01",
-        "url": "https://app.box.com/s/etiq1ou08mrg0ch3wbyfpgxuec4pedv9"
+        "description": "https://app.box.com/s/etiq1ou08mrg0ch3wbyfpgxuec4pedv9"
       },
       "geometry": {
         "type": "Polygon",
@@ -5790,7 +5790,7 @@
       "type": "Feature",
       "properties": {
         "name": "B2 - 02, Port de Bxl Zone B, Z.12",
-        "url": "https://app.box.com/s/j9m19hxrvo3wujvd4gmjqnaqoqi2ctt1"
+        "description": "https://app.box.com/s/j9m19hxrvo3wujvd4gmjqnaqoqi2ctt1"
       },
       "geometry": {
         "type": "Polygon",
@@ -5948,7 +5948,7 @@
       "type": "Feature",
       "properties": {
         "name": "B2 - 03, Port de Bxl Zone A, Z.01",
-        "url": "https://app.box.com/s/00rdjj3a1sctzjy8gwa0xet77swlbsjj"
+        "description": "https://app.box.com/s/00rdjj3a1sctzjy8gwa0xet77swlbsjj"
       },
       "geometry": {
         "type": "Polygon",
@@ -6002,7 +6002,7 @@
       "type": "Feature",
       "properties": {
         "name": "B2 - 04, Port de Bxl Zone T, Z.12",
-        "url": "https://app.box.com/s/na665xtvtis7dmhxh6ntxc3waklry2an"
+        "description": "https://app.box.com/s/na665xtvtis7dmhxh6ntxc3waklry2an"
       },
       "geometry": {
         "type": "Polygon",
@@ -6052,7 +6052,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 01, Coca Cola, Z.08",
-        "url": "https://app.box.com/s/norxfdner2txpc8p50u637iabzyxzsy1"
+        "description": "https://app.box.com/s/norxfdner2txpc8p50u637iabzyxzsy1"
       },
       "geometry": {
         "type": "Polygon",
@@ -6122,7 +6122,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 02, UCB Pharma Center Anderlecht, Z.08",
-        "url": "https://app.box.com/s/5rlsv4iweak1woymbrcnqenymlw1z76p"
+        "description": "https://app.box.com/s/5rlsv4iweak1woymbrcnqenymlw1z76p"
       },
       "geometry": {
         "type": "Polygon",
@@ -6168,7 +6168,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 03, Sciensano (Groeselenberg) Z.06",
-        "url": "https://app.box.com/s/n8btf2uxcl62qpf6h162oxorkoqg3km1"
+        "description": "https://app.box.com/s/n8btf2uxcl62qpf6h162oxorkoqg3km1"
       },
       "geometry": {
         "type": "Polygon",
@@ -6282,7 +6282,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 04, Sibelga Anderlecht - Gaz naturel - Aardgas, Z.08",
-        "url": "https://app.box.com/s/5ok308myxxsgt802h1l7jj1mv0o04ytt"
+        "description": "https://app.box.com/s/5ok308myxxsgt802h1l7jj1mv0o04ytt"
       },
       "geometry": {
         "type": "Polygon",
@@ -6320,7 +6320,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 05, Crématoire d'Uccle - Crematorium van Ukkel, Z.06",
-        "url": "https://app.box.com/s/rrtxnoeo1pjsu3k65jr8sr0lu3bmy67h"
+        "description": "https://app.box.com/s/rrtxnoeo1pjsu3k65jr8sr0lu3bmy67h"
       },
       "geometry": {
         "type": "Polygon",
@@ -6382,7 +6382,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 06, D'Ieteren Meiser, Z.03",
-        "url": "https://app.box.com/s/bvn8d0gweim4fptutfa9ie160mnrlucb"
+        "description": "https://app.box.com/s/bvn8d0gweim4fptutfa9ie160mnrlucb"
       },
       "geometry": {
         "type": "Polygon",
@@ -6460,7 +6460,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 07, D'Ieteren Centre, Z.08",
-        "url": "https://app.box.com/s/5e30bzg0as7v1nursxu4bhxi2jv1vz7v"
+        "description": "https://app.box.com/s/5e30bzg0as7v1nursxu4bhxi2jv1vz7v"
       },
       "geometry": {
         "type": "Polygon",
@@ -6558,7 +6558,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 08, D'Ieteren Drogenbos, Z.XX",
-        "url": "https://app.box.com/s/5zcmueo9zxyz1vmynurii0l4f0xj6kh8"
+        "description": "https://app.box.com/s/5zcmueo9zxyz1vmynurii0l4f0xj6kh8"
       },
       "geometry": {
         "type": "Polygon",
@@ -6644,7 +6644,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 09, Godiva - La Manufacture Belge de Chocolats, Z.11",
-        "url": "https://app.box.com/s/r4j654r2ffyv4ghn4pp3kmixbt0cbqe4"
+        "description": "https://app.box.com/s/r4j654r2ffyv4ghn4pp3kmixbt0cbqe4"
       },
       "geometry": {
         "type": "Polygon",
@@ -6758,7 +6758,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 10, Galilei - Mercator -Technopark, Z.01",
-        "url": "https://app.box.com/s/7x9etgbyibzt0knvqnvh5yr65789tyln"
+        "description": "https://app.box.com/s/7x9etgbyibzt0knvqnvh5yr65789tyln"
       },
       "geometry": {
         "type": "Polygon",
@@ -6900,7 +6900,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 11 SABCA Z.02",
-        "url": "https://app.box.com/s/14ddmwq8ew7uq7zs1oxbd6s54i20lfg5"
+        "description": "https://app.box.com/s/14ddmwq8ew7uq7zs1oxbd6s54i20lfg5"
       },
       "geometry": {
         "type": "Polygon",
@@ -6954,7 +6954,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 12, Ceres - Meunerie - Maalderij - Silo, Z.01",
-        "url": "https://app.box.com/s/tt9u4n6fafk6dr99xxo3ue75iyzjt2za"
+        "description": "https://app.box.com/s/tt9u4n6fafk6dr99xxo3ue75iyzjt2za"
       },
       "geometry": {
         "type": "Polygon",
@@ -6996,7 +6996,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 13, Brucefo, Z.07",
-        "url": "https://app.box.com/s/2sjh2vjy8syer4z9ssp1eqrqs1gn4ce2"
+        "description": "https://app.box.com/s/2sjh2vjy8syer4z9ssp1eqrqs1gn4ce2"
       },
       "geometry": {
         "type": "Polygon",
@@ -7030,7 +7030,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 14, Audi Brussels, Z.07",
-        "url": "https://app.box.com/s/0ix4c1gpgczwte21m1uk5sbww63boond"
+        "description": "https://app.box.com/s/0ix4c1gpgczwte21m1uk5sbww63boond"
       },
       "geometry": {
         "type": "Polygon",
@@ -7272,7 +7272,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 15, ISP-WIV, Z.05",
-        "url": "https://app.box.com/s/qv30n0jmz3wmrogzzatbc54uh78y0oit"
+        "description": "https://app.box.com/s/qv30n0jmz3wmrogzzatbc54uh78y0oit"
       },
       "geometry": {
         "type": "Polygon",
@@ -7338,7 +7338,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 16, De Meuter - Demeuter, Z.01",
-        "url": "https://app.box.com/s/cgu50l1fipiu12ywfdemiylb5ra0jlxb"
+        "description": "https://app.box.com/s/cgu50l1fipiu12ywfdemiylb5ra0jlxb"
       },
       "geometry": {
         "type": "Polygon",
@@ -7376,7 +7376,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 17, Bpost Z.01",
-        "url": "https://app.box.com/s/813ot86ob5a01oistkr7x87ufxwenvql"
+        "description": "https://app.box.com/s/813ot86ob5a01oistkr7x87ufxwenvql"
       },
       "geometry": {
         "type": "Polygon",
@@ -7418,7 +7418,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 18, SUEZ - Tri de déchets - Sorteercentrum afval - ( Sues ), Z.01",
-        "url": "https://app.box.com/s/103s9sfulwkkt0h3l513w65vcid6if89"
+        "description": "https://app.box.com/s/103s9sfulwkkt0h3l513w65vcid6if89"
       },
       "geometry": {
         "type": "Polygon",
@@ -7472,7 +7472,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 19, Prayon Benelux, Z.01",
-        "url": "https://app.box.com/s/7lsy13pp6pkribwdt62fw0yrvi5q0b61"
+        "description": "https://app.box.com/s/7lsy13pp6pkribwdt62fw0yrvi5q0b61"
       },
       "geometry": {
         "type": "Polygon",
@@ -7526,7 +7526,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 20, Solvay Campus Site N.O.H - Industrie chimique - Chemische Industrie, Z.01",
-        "url": "https://app.box.com/s/dk5p9pv2oarburyf4bs082n2gb2j3w6t"
+        "description": "https://app.box.com/s/dk5p9pv2oarburyf4bs082n2gb2j3w6t"
       },
       "geometry": {
         "type": "Polygon",
@@ -7636,7 +7636,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 21, Viangro, Z.07",
-        "url": "https://app.box.com/s/7ekz1xlcs7vrzgicyz5f6acxzsf3kxg3"
+        "description": "https://app.box.com/s/7ekz1xlcs7vrzgicyz5f6acxzsf3kxg3"
       },
       "geometry": {
         "type": "Polygon",
@@ -7698,7 +7698,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 22, Centrale électrique-Elektriciteitscentrale, Z.XX",
-        "url": "https://app.box.com/s/hl52acig61ea6twbgqs8iipirad54grn"
+        "description": "https://app.box.com/s/hl52acig61ea6twbgqs8iipirad54grn"
       },
       "geometry": {
         "type": "Polygon",
@@ -7756,7 +7756,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 23, Sciensano, Z.06",
-        "url": "https://app.box.com/s/pn2sr21vn92us6i97b1gkqh9ackadc0g"
+        "description": "https://app.box.com/s/pn2sr21vn92us6i97b1gkqh9ackadc0g"
       },
       "geometry": {
         "type": "Polygon",
@@ -7846,7 +7846,7 @@
       "type": "Feature",
       "properties": {
         "name": "B3 - 24 RECYCLIS Centre de tri Z.07",
-        "url": "https://app.box.com/s/x7mhik3guozzv4yhfuhjgpc97virnwur"
+        "description": "https://app.box.com/s/x7mhik3guozzv4yhfuhjgpc97virnwur"
       },
       "geometry": {
         "type": "Polygon",
@@ -7904,7 +7904,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 01 Cliniques UCL Z.03",
-        "url": "https://app.box.com/s/pzbz7aaregl9let21stod4p96o92yo70"
+        "description": "https://app.box.com/s/pzbz7aaregl9let21stod4p96o92yo70"
       },
       "geometry": {
         "type": "Polygon",
@@ -7990,7 +7990,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 02 Hôpital CHU Brugmann Brien Z.02",
-        "url": "https://app.box.com/s/jbz3syu3zqjpel7g05rn600s7nw9h8w6"
+        "description": "https://app.box.com/s/jbz3syu3zqjpel7g05rn600s7nw9h8w6"
       },
       "geometry": {
         "type": "Polygon",
@@ -8072,7 +8072,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 03 Hôpital AZ-VUB Z.11",
-        "url": "https://app.box.com/s/tkiy8710x3gwtggkbi3gwvtq4r0dywut"
+        "description": "https://app.box.com/s/tkiy8710x3gwtggkbi3gwvtq4r0dywut"
       },
       "geometry": {
         "type": "Polygon",
@@ -8270,7 +8270,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 04, UZ Brussel (ACMW) - soins palliatifs - palliatieve zorgen, Z.11",
-        "url": "https://app.box.com/s/97ov0tprl81vn9poiezbo6m62trifcxr"
+        "description": "https://app.box.com/s/97ov0tprl81vn9poiezbo6m62trifcxr"
       },
       "geometry": {
         "type": "Polygon",
@@ -8312,7 +8312,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 06, Clinique St Jean, Z.02",
-        "url": "https://app.box.com/s/rhbn26uf70n0lv4s3dplynh5senoukkx"
+        "description": "https://app.box.com/s/rhbn26uf70n0lv4s3dplynh5senoukkx"
       },
       "geometry": {
         "type": "Polygon",
@@ -8354,7 +8354,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 07, Hôpital Iris-Sud Etterbeek-Ixelles Ziekenhuis, Z.05",
-        "url": "https://app.box.com/s/209mrekaswqazf7wxif69vb0gefbp5je"
+        "description": "https://app.box.com/s/209mrekaswqazf7wxif69vb0gefbp5je"
       },
       "geometry": {
         "type": "Polygon",
@@ -8444,7 +8444,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 08, Cliniques de l’Europe (Sainte-Elisabeth) - Europaziekenhuizen (Sint-Elisabeth), Z.06",
-        "url": "https://app.box.com/s/y1fier3fh096vagtbpbezw5k2lk0ira3"
+        "description": "https://app.box.com/s/y1fier3fh096vagtbpbezw5k2lk0ira3"
       },
       "geometry": {
         "type": "Polygon",
@@ -8534,7 +8534,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 09, C.R.E.B. CREB Enfants Handicapés - Gehandicapte Kinderen, Z.03",
-        "url": "https://app.box.com/s/142bzpwxzkuayalu9t161wxrp28cap66"
+        "description": "https://app.box.com/s/142bzpwxzkuayalu9t161wxrp28cap66"
       },
       "geometry": {
         "type": "Polygon",
@@ -8596,7 +8596,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 10, Institut Jules Bordet - Hôpital - Ziekenhuis, Z.00",
-        "url": "https://app.box.com/s/1tymna6c2ada47ss4mwn89n5lg4tim9v"
+        "description": "https://app.box.com/s/1tymna6c2ada47ss4mwn89n5lg4tim9v"
       },
       "geometry": {
         "type": "Polygon",
@@ -8642,7 +8642,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 11, Hôpital Militaire Reine Astrid - Militair Hospitaal Koningin Astrid - Ziekenhuis, Z.01",
-        "url": "https://app.box.com/s/fkpb7snvrj7c8lxocg05g41uemghlidj"
+        "description": "https://app.box.com/s/fkpb7snvrj7c8lxocg05g41uemghlidj"
       },
       "geometry": {
         "type": "Polygon",
@@ -8764,7 +8764,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 12, CHU St-Pierre-UMC St-Pieter, Z.00",
-        "url": "https://app.box.com/s/uvmu9syxxux77lmlgkyr2fyizvt60dlz"
+        "description": "https://app.box.com/s/uvmu9syxxux77lmlgkyr2fyizvt60dlz"
       },
       "geometry": {
         "type": "Polygon",
@@ -8870,7 +8870,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 13, Résidence Reine Fabiola, Z.04",
-        "url": "https://app.box.com/s/csceiioufg4a1af7p4u3q4kc5bq8dnyo"
+        "description": "https://app.box.com/s/csceiioufg4a1af7p4u3q4kc5bq8dnyo"
       },
       "geometry": {
         "type": "Polygon",
@@ -8916,7 +8916,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 14, CHIREC Delta, Z.04",
-        "url": "https://app.box.com/s/k1g3a9ky6ahogpuoye5s4n43pin2a3cr"
+        "description": "https://app.box.com/s/k1g3a9ky6ahogpuoye5s4n43pin2a3cr"
       },
       "geometry": {
         "type": "Polygon",
@@ -9022,7 +9022,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 15, Hôpital Erasme Ziekenhuis (Campus ULB - Erasme), Z.08",
-        "url": "https://app.box.com/s/gq5165mtupxr7pf24fbdhtayow8wcv9k"
+        "description": "https://app.box.com/s/gq5165mtupxr7pf24fbdhtayow8wcv9k"
       },
       "geometry": {
         "type": "Polygon",
@@ -9156,7 +9156,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 16, Clinique de la Basilique-Basiliek Kliniek, Z.11",
-        "url": "https://app.box.com/s/l128weh9jvhbdvdzzhurhdmzbvtkv6ys"
+        "description": "https://app.box.com/s/l128weh9jvhbdvdzzhurhdmzbvtkv6ys"
       },
       "geometry": {
         "type": "Polygon",
@@ -9226,7 +9226,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 17, CHU Brugmann - UCV Brugmann - Hôpital - Ziekenhuis, Z.11",
-        "url": "https://app.box.com/s/z8rhwwko5giilsbxf3nzd0tchq797mjx"
+        "description": "https://app.box.com/s/z8rhwwko5giilsbxf3nzd0tchq797mjx"
       },
       "geometry": {
         "type": "Polygon",
@@ -9296,7 +9296,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 18, CHU Saint-Pierre (Site César de Paepe) - UMC Sint-Pieter (Site Cesar de Paepe) - Hôpital - Ziekenhuis, Z.00",
-        "url": "https://app.box.com/s/lx8o4e9nihd074b2lvw6hhhgwltaw78l"
+        "description": "https://app.box.com/s/lx8o4e9nihd074b2lvw6hhhgwltaw78l"
       },
       "geometry": {
         "type": "Polygon",
@@ -9350,7 +9350,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 19, Epsylon asbl - Fond'Roy, Z.06",
-        "url": "https://app.box.com/s/hge09j2kwdimfybkilkh9j84uqdkel35"
+        "description": "https://app.box.com/s/hge09j2kwdimfybkilkh9j84uqdkel35"
       },
       "geometry": {
         "type": "Polygon",
@@ -9396,7 +9396,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 20, Résidence Sainte-Gertrude - Residentie Sint-Geertruide, Z.00",
-        "url": "https://app.box.com/s/m04crrd8eizdenl0adki47gg4o8o46ou"
+        "description": "https://app.box.com/s/m04crrd8eizdenl0adki47gg4o8o46ou"
       },
       "geometry": {
         "type": "Polygon",
@@ -9482,7 +9482,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 21, Jean Titeca - Centre hospitalier psychiatrique - Psychiatrisch ziekenhuis, Z.02",
-        "url": "https://app.box.com/s/fjntvdr67em0rub32yjy7c6d5nkcwobg"
+        "description": "https://app.box.com/s/fjntvdr67em0rub32yjy7c6d5nkcwobg"
       },
       "geometry": {
         "type": "Polygon",
@@ -9584,7 +9584,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 22, Clinique Ste-Anne St-Rémi- St-Anna St-Remi Ziekenhuis, Z.09",
-        "url": "https://app.box.com/s/1ip8lw8wltb8pjlwoxh1spb4lon7lyz3"
+        "description": "https://app.box.com/s/1ip8lw8wltb8pjlwoxh1spb4lon7lyz3"
       },
       "geometry": {
         "type": "Polygon",
@@ -9650,7 +9650,7 @@
       "type": "Feature",
       "properties": {
         "name": "C1 - 23, Epsylon asbl - La Ramée, Z.06",
-        "url": "https://app.box.com/s/seseoycactky5rff60p5aa9t0t03r3xs"
+        "description": "https://app.box.com/s/seseoycactky5rff60p5aa9t0t03r3xs"
       },
       "geometry": {
         "type": "Polygon",
@@ -9696,7 +9696,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 01, Prison de Saint-Gilles - Gevangenis van Sint-Gillis, Z.06",
-        "url": "https://app.box.com/s/5jbq8ewu1gkf5zol8oy77bbzdzp55m61"
+        "description": "https://app.box.com/s/5jbq8ewu1gkf5zol8oy77bbzdzp55m61"
       },
       "geometry": {
         "type": "Polygon",
@@ -9786,7 +9786,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 03, Palais Royal de Bruxelles - Koninklijk Paleis van Brussel, Z.00",
-        "url": "https://app.box.com/s/v4l0bj5hm1s0sv0gq9bn08oqqm5lvl8r"
+        "description": "https://app.box.com/s/v4l0bj5hm1s0sv0gq9bn08oqqm5lvl8r"
       },
       "geometry": {
         "type": "Polygon",
@@ -9856,7 +9856,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 04 Château Royal De Laeken - Koninklijk Kasteel Van Laeken, Z.12",
-        "url": "https://app.box.com/s/uxf4heusdg5r2p40z8shopp3u3x1fyjj"
+        "description": "https://app.box.com/s/uxf4heusdg5r2p40z8shopp3u3x1fyjj"
       },
       "geometry": {
         "type": "Polygon",
@@ -9942,7 +9942,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 05, Police Zone Uccle - Politie Zone Ukkel, Z.07",
-        "url": "https://app.box.com/s/o9j4ahgbic0ey03kzu32w3xtdfrdsbvz"
+        "description": "https://app.box.com/s/o9j4ahgbic0ey03kzu32w3xtdfrdsbvz"
       },
       "geometry": {
         "type": "Polygon",
@@ -10028,7 +10028,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 06, Château - Stuyvenbergh - Kasteel, Z.12",
-        "url": "https://app.box.com/s/67kuvfynbdp9l7y7ddrqd6d0tavqqw2a"
+        "description": "https://app.box.com/s/67kuvfynbdp9l7y7ddrqd6d0tavqqw2a"
       },
       "geometry": {
         "type": "Polygon",
@@ -10138,7 +10138,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 07, Commission Européenne Berlaymont - Europese Commissie Berlaymont, Z.03",
-        "url": "https://app.box.com/s/4uac9k5kccp9jjszgbylqdsdyqgeym8q"
+        "description": "https://app.box.com/s/4uac9k5kccp9jjszgbylqdsdyqgeym8q"
       },
       "geometry": {
         "type": "Polygon",
@@ -10200,7 +10200,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 08, Parlement Européen Montoyer 70 (MTY) - Europees Parlement Montoyer 70 (MTY), Z.04",
-        "url": "https://app.box.com/s/1rjnooqilluj7opnv9of81qwnpsw53cg"
+        "description": "https://app.box.com/s/1rjnooqilluj7opnv9of81qwnpsw53cg"
       },
       "geometry": {
         "type": "Polygon",
@@ -10250,7 +10250,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 09, Parlement Européen Atrium (ATR) - Europees Parlement Atrium (ATR), Z.04",
-        "url": "https://app.box.com/s/p6h3di0qozj0jp5538nlob55mj7jnvzx"
+        "description": "https://app.box.com/s/p6h3di0qozj0jp5538nlob55mj7jnvzx"
       },
       "geometry": {
         "type": "Polygon",
@@ -10332,7 +10332,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 10, Parlement Européen Montoyer 63 (MON) - Europees Parlement Montoyer 63 (MON), Z.04",
-        "url": "https://app.box.com/s/7uxefzrv3fxqdcvx5ieyd550b2xc4175"
+        "description": "https://app.box.com/s/7uxefzrv3fxqdcvx5ieyd550b2xc4175"
       },
       "geometry": {
         "type": "Polygon",
@@ -10366,7 +10366,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 11, Parlement Européen Montoyer 75 (MOY) - Europees Parlement Montoyer 75 (MOY), Z.04",
-        "url": "https://app.box.com/s/je5fm3vtpafm2ooc4te91z737d6r1jtu"
+        "description": "https://app.box.com/s/je5fm3vtpafm2ooc4te91z737d6r1jtu"
       },
       "geometry": {
         "type": "Polygon",
@@ -10408,7 +10408,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 12, Parlement Européen Wayenberg (WAY) - Europees Parlement Wayenberg (WAY), Z.04",
-        "url": "https://app.box.com/s/rmo22hwcloq70tue21ojflhcbjixptq3"
+        "description": "https://app.box.com/s/rmo22hwcloq70tue21ojflhcbjixptq3"
       },
       "geometry": {
         "type": "Polygon",
@@ -10470,7 +10470,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 13, Parlement Européen PH Spaak (PHS) - Europees Parlement PH Spaak (PHS), Z.04",
-        "url": "https://app.box.com/s/we4sgbltyezyzwmkkuhvs30yfzwzi0yd"
+        "description": "https://app.box.com/s/we4sgbltyezyzwmkkuhvs30yfzwzi0yd"
       },
       "geometry": {
         "type": "Polygon",
@@ -10532,7 +10532,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 14, Maison des Parlementaires - Huis des Parlementsleden, Z.00",
-        "url": "https://app.box.com/s/b2ybhd3fla0u288j1irxqwni9yilt020"
+        "description": "https://app.box.com/s/b2ybhd3fla0u288j1irxqwni9yilt020"
       },
       "geometry": {
         "type": "Polygon",
@@ -10570,7 +10570,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 15, Commission Européenne (Beaulieu) - Europese Commissie (Beaulieu), Z.04",
-        "url": "https://app.box.com/s/8yqhlhtrkrtxpj1pz4uhqkj10felbfaq"
+        "description": "https://app.box.com/s/8yqhlhtrkrtxpj1pz4uhqkj10felbfaq"
       },
       "geometry": {
         "type": "Polygon",
@@ -10632,7 +10632,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 16, Palais des Académies - Paleis der Academiën, Z.00",
-        "url": "https://app.box.com/s/dce3ikvu4v1ph39stv4zzxx8lqrwle8b"
+        "description": "https://app.box.com/s/dce3ikvu4v1ph39stv4zzxx8lqrwle8b"
       },
       "geometry": {
         "type": "Polygon",
@@ -10678,7 +10678,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 17, Parlement Européen Remard (RMD) - Europees Parlement Remard (RMD), Z.04",
-        "url": "https://app.box.com/s/qr98wu869ntnoghj111ecgl07tjwd41h"
+        "description": "https://app.box.com/s/qr98wu869ntnoghj111ecgl07tjwd41h"
       },
       "geometry": {
         "type": "Polygon",
@@ -10712,7 +10712,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 18, Palais Stoclet Paleis, Z.04",
-        "url": "https://app.box.com/s/pz4qcaiy4ljrgk1r3frat2yjy5127f5x"
+        "description": "https://app.box.com/s/pz4qcaiy4ljrgk1r3frat2yjy5127f5x"
       },
       "geometry": {
         "type": "Polygon",
@@ -10758,7 +10758,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 19, Palais d'Egmont, Z.00",
-        "url": "https://app.box.com/s/0l69fkq1rcbnzwh8jwi5olrmbvfcoqkm"
+        "description": "https://app.box.com/s/0l69fkq1rcbnzwh8jwi5olrmbvfcoqkm"
       },
       "geometry": {
         "type": "Polygon",
@@ -10800,7 +10800,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 20, Com. Eu. Cole (crèche), Z.04",
-        "url": "https://app.box.com/s/un6nhc8a57gvgj17ta3b7s61ze2rgcqv"
+        "description": "https://app.box.com/s/un6nhc8a57gvgj17ta3b7s61ze2rgcqv"
       },
       "geometry": {
         "type": "Polygon",
@@ -10834,7 +10834,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 21, Cons. Euro. Juste Lipse, Z.04",
-        "url": "https://app.box.com/s/ms836wl22hd4xjsclhv58n88cqvypp1f"
+        "description": "https://app.box.com/s/ms836wl22hd4xjsclhv58n88cqvypp1f"
       },
       "geometry": {
         "type": "Polygon",
@@ -10888,7 +10888,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 22, Ambassade USA, Z.00",
-        "url": "https://app.box.com/s/t5g4l4wnsmmqddsz1z7xkaem7bs7lbw1"
+        "description": "https://app.box.com/s/t5g4l4wnsmmqddsz1z7xkaem7bs7lbw1"
       },
       "geometry": {
         "type": "Polygon",
@@ -10930,7 +10930,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 23, Com. Euro. Charlemagne, Z.03",
-        "url": "https://app.box.com/s/at3fpcdjb2jnnyu5sdh7p30240a0ovf9"
+        "description": "https://app.box.com/s/at3fpcdjb2jnnyu5sdh7p30240a0ovf9"
       },
       "geometry": {
         "type": "Polygon",
@@ -10968,7 +10968,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 24 Palais de Justice Z.00",
-        "url": "https://app.box.com/s/d5yrl2tut9opqf87gekpfud9w3ij7bp3"
+        "description": "https://app.box.com/s/d5yrl2tut9opqf87gekpfud9w3ij7bp3"
       },
       "geometry": {
         "type": "Polygon",
@@ -11042,7 +11042,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 25, Police Fed. Complexe Geruzet, Z.04",
-        "url": "https://app.box.com/s/5i4b0qdw5xaspfk7lv54ev2f0ht1o210"
+        "description": "https://app.box.com/s/5i4b0qdw5xaspfk7lv54ev2f0ht1o210"
       },
       "geometry": {
         "type": "Polygon",
@@ -11088,7 +11088,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 26, Police Fed. Complexe Couronne, Z.05",
-        "url": "https://app.box.com/s/kmvpoyqjacaob2d8ay2tsi3fr39m1p11"
+        "description": "https://app.box.com/s/kmvpoyqjacaob2d8ay2tsi3fr39m1p11"
       },
       "geometry": {
         "type": "Polygon",
@@ -11122,7 +11122,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 27, Police Fed. Complexe De Witte de Haelen, Z.04",
-        "url": "https://app.box.com/s/6ksruq4teuaej73dx78aqmntu8e5afx7"
+        "description": "https://app.box.com/s/6ksruq4teuaej73dx78aqmntu8e5afx7"
       },
       "geometry": {
         "type": "Polygon",
@@ -11160,7 +11160,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 28, Parl. Euro. Montoyer 30 (MTS), Z.04",
-        "url": "https://app.box.com/s/gzbkpi5tbg5lmmfs6wxx3x6piv74cn8a"
+        "description": "https://app.box.com/s/gzbkpi5tbg5lmmfs6wxx3x6piv74cn8a"
       },
       "geometry": {
         "type": "Polygon",
@@ -11202,7 +11202,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 29, Parl. Euro Wiertz 50 (WIE), Z.04",
-        "url": "https://app.box.com/s/p2ini4pbln7wj0vw8mozxo53v9eirdbk"
+        "description": "https://app.box.com/s/p2ini4pbln7wj0vw8mozxo53v9eirdbk"
       },
       "geometry": {
         "type": "Polygon",
@@ -11264,7 +11264,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 30, Parl. Euro Trève 73 (TRI), Z.04",
-        "url": "https://app.box.com/s/74wrfo23ta14eat69urmznivr7kw68zf"
+        "description": "https://app.box.com/s/74wrfo23ta14eat69urmznivr7kw68zf"
       },
       "geometry": {
         "type": "Polygon",
@@ -11314,7 +11314,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 31, Parl. Euro Square de Meeus (SQM), Z.04",
-        "url": "https://app.box.com/s/7o5mrm8f6zfma6arstd0ddggj0xw3erb"
+        "description": "https://app.box.com/s/7o5mrm8f6zfma6arstd0ddggj0xw3erb"
       },
       "geometry": {
         "type": "Polygon",
@@ -11372,7 +11372,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 32, Europa Building, Z.03",
-        "url": "https://app.box.com/s/15ma6iejw7bcfiftxoic4109if7talx4"
+        "description": "https://app.box.com/s/15ma6iejw7bcfiftxoic4109if7talx4"
       },
       "geometry": {
         "type": "Polygon",
@@ -11410,7 +11410,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 33, Parl. Euro Maison histoire Euro (MHE), Z.04",
-        "url": "https://app.box.com/s/639tn8p0necv4q4fvlr5z49xaoxq5g3n"
+        "description": "https://app.box.com/s/639tn8p0necv4q4fvlr5z49xaoxq5g3n"
       },
       "geometry": {
         "type": "Polygon",
@@ -11444,7 +11444,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 34 OTAN-NAVO Z.02",
-        "url": "https://app.box.com/s/oaucb64f3ofk6a2mxraxkf82xli91rl4"
+        "description": "https://app.box.com/s/oaucb64f3ofk6a2mxraxkf82xli91rl4"
       },
       "geometry": {
         "type": "Polygon",
@@ -11534,7 +11534,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 35, Parl. Euro ASP, Z.04",
-        "url": "https://app.box.com/s/4zoi16t6u43705r7r4z4w6iep6vryhhw"
+        "description": "https://app.box.com/s/4zoi16t6u43705r7r4z4w6iep6vryhhw"
       },
       "geometry": {
         "type": "Polygon",
@@ -11636,7 +11636,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 36, Parl. Euro WIB-JAN-BQL, Z.04",
-        "url": "https://app.box.com/s/6l97gz0xh5jl6630pfrhg1u9g6fdlk2f"
+        "description": "https://app.box.com/s/6l97gz0xh5jl6630pfrhg1u9g6fdlk2f"
       },
       "geometry": {
         "type": "Polygon",
@@ -11734,7 +11734,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 37, Police Fédérale - Federale Politie - Complex Royale, Z.00",
-        "url": "https://app.box.com/s/mxedr8mv2p9lgw3d4ogh3hl92z4u2ih0"
+        "description": "https://app.box.com/s/mxedr8mv2p9lgw3d4ogh3hl92z4u2ih0"
       },
       "geometry": {
         "type": "Polygon",
@@ -11784,7 +11784,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 38 Cour des comptes Z.00",
-        "url": "https://app.box.com/s/kclhd4nalkh0o9rqr36bt20ibmwe79mt"
+        "description": "https://app.box.com/s/kclhd4nalkh0o9rqr36bt20ibmwe79mt"
       },
       "geometry": {
         "type": "Polygon",
@@ -11850,7 +11850,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 39, Police fédérale de la route - Federale wegpolitie, Z.04",
-        "url": "https://app.box.com/s/ic21txjsb09h8pocod8ycz0m8f80andu"
+        "description": "https://app.box.com/s/ic21txjsb09h8pocod8ycz0m8f80andu"
       },
       "geometry": {
         "type": "Polygon",
@@ -11884,7 +11884,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 40, Prison de Haren - Gevangenis van Haren, Z.02",
-        "url": "https://app.box.com/s/jgkiqz3mg8cl7fod44tkx5k3thavel8t"
+        "description": "https://app.box.com/s/jgkiqz3mg8cl7fod44tkx5k3thavel8t"
       },
       "geometry": {
         "type": "Polygon",
@@ -12018,7 +12018,7 @@
       "type": "Feature",
       "properties": {
         "name": "C2 - 41, JUSTITIA, Z.02",
-        "url": "https://app.box.com/s/a32lkj3vlreurftuv5uoomlw9vbb0ye7"
+        "description": "https://app.box.com/s/a32lkj3vlreurftuv5uoomlw9vbb0ye7"
       },
       "geometry": {
         "type": "Polygon",
@@ -12092,7 +12092,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 01, Basilique de Koekelberg - Basiliek van Koekelberg, Z.10",
-        "url": "https://app.box.com/s/rl3e4zaofy9i67fn9ot50w8w4gjbskfo"
+        "description": "https://app.box.com/s/rl3e4zaofy9i67fn9ot50w8w4gjbskfo"
       },
       "geometry": {
         "type": "Polygon",
@@ -12178,7 +12178,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 02, Institut Royal des Sciences (Musée), Z.04",
-        "url": "https://app.box.com/s/aemo3xunvp4iwoe8yoknnhq866027ii4"
+        "description": "https://app.box.com/s/aemo3xunvp4iwoe8yoknnhq866027ii4"
       },
       "geometry": {
         "type": "Polygon",
@@ -12316,7 +12316,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 03, Parc des Expositions de Bxl (PEB), Z.12",
-        "url": "https://app.box.com/s/tkuo86h08sb8jwieexyw7cpmelt0n2d9"
+        "description": "https://app.box.com/s/tkuo86h08sb8jwieexyw7cpmelt0n2d9"
       },
       "geometry": {
         "type": "Polygon",
@@ -12422,7 +12422,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 04, ATOMIUM, Z.12",
-        "url": "https://app.box.com/s/2q6dd1xs5u10jnkdzkw8tp46q9azoo2s"
+        "description": "https://app.box.com/s/2q6dd1xs5u10jnkdzkw8tp46q9azoo2s"
       },
       "geometry": {
         "type": "Polygon",
@@ -12492,7 +12492,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 05, Bibliothèque solvay, Z.04",
-        "url": "https://app.box.com/s/llg4xh7z9vnur83ha20h911xo2ur3arb"
+        "description": "https://app.box.com/s/llg4xh7z9vnur83ha20h911xo2ur3arb"
       },
       "geometry": {
         "type": "Polygon",
@@ -12554,7 +12554,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 06, Concert Noble, Z.04",
-        "url": "https://app.box.com/s/yapn26l8whwca8azt0fyfogzui2zt4m6"
+        "description": "https://app.box.com/s/yapn26l8whwca8azt0fyfogzui2zt4m6"
       },
       "geometry": {
         "type": "Polygon",
@@ -12592,7 +12592,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 07, Tour & Taxis - Thurn & Taxis, Z.12",
-        "url": "https://app.box.com/s/u0wdgc5pdkq3mdzpur6q4bgjkow6hak1"
+        "description": "https://app.box.com/s/u0wdgc5pdkq3mdzpur6q4bgjkow6hak1"
       },
       "geometry": {
         "type": "Polygon",
@@ -12642,7 +12642,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 08, Square Brussels Meeting Centre, Z.00",
-        "url": "https://app.box.com/s/zt33glwqdlmft5tzmxj6wufuye325ow0"
+        "description": "https://app.box.com/s/zt33glwqdlmft5tzmxj6wufuye325ow0"
       },
       "geometry": {
         "type": "Polygon",
@@ -12700,7 +12700,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 09, Kinepolis Brussels, Z.12",
-        "url": "https://app.box.com/s/oj9umh8avb7tnf8ldj32funqq70yscqe"
+        "description": "https://app.box.com/s/oj9umh8avb7tnf8ldj32funqq70yscqe"
       },
       "geometry": {
         "type": "Polygon",
@@ -12814,7 +12814,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 10, Stade Roi Baudouin - Koning Boudewijn Stadion, Z.12",
-        "url": "https://app.box.com/s/7i594i7ung236jue08i2f4ms61q9o0ib"
+        "description": "https://app.box.com/s/7i594i7ung236jue08i2f4ms61q9o0ib"
       },
       "geometry": {
         "type": "Polygon",
@@ -12856,7 +12856,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 11, Stade-Stadion RSCA-Constant Vanden Stock, Z.08",
-        "url": "https://app.box.com/s/5x47su9af2bz77qk0hub560p41tmcimy"
+        "description": "https://app.box.com/s/5x47su9af2bz77qk0hub560p41tmcimy"
       },
       "geometry": {
         "type": "Polygon",
@@ -12934,7 +12934,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 12, Maison du Roi-Broodhuis, Z.00",
-        "url": "https://app.box.com/s/taeg7xfvagarq0ca0fy28b296z3632y4"
+        "description": "https://app.box.com/s/taeg7xfvagarq0ca0fy28b296z3632y4"
       },
       "geometry": {
         "type": "Polygon",
@@ -12968,7 +12968,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 13, Bibliothèque Royale de Belgique-Koninklijke Bibliotheek van Belgïe, Z.00",
-        "url": "https://app.box.com/s/w7oez84enn000h44a5m00lefjrkhv2qu"
+        "description": "https://app.box.com/s/w7oez84enn000h44a5m00lefjrkhv2qu"
       },
       "geometry": {
         "type": "Polygon",
@@ -13078,7 +13078,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 14, Planetarium, Z.12",
-        "url": "https://app.box.com/s/fxex1mt7bffyde78n7nhl00mm8af97jo"
+        "description": "https://app.box.com/s/fxex1mt7bffyde78n7nhl00mm8af97jo"
       },
       "geometry": {
         "type": "Polygon",
@@ -13212,7 +13212,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 15, Les Halles de Schaerbeek-De Hallen van Schaarbeek, Z.01",
-        "url": "https://app.box.com/s/pgrs65l8nlqaqimm7ga9fma18iw2g9yr"
+        "description": "https://app.box.com/s/pgrs65l8nlqaqimm7ga9fma18iw2g9yr"
       },
       "geometry": {
         "type": "Polygon",
@@ -13250,7 +13250,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 16, Kanal, Z.12",
-        "url": "https://app.box.com/s/4q5jh4lc4q3h3fuy16rhni5xmmz9hxy7"
+        "description": "https://app.box.com/s/4q5jh4lc4q3h3fuy16rhni5xmmz9hxy7"
       },
       "geometry": {
         "type": "Polygon",
@@ -13328,7 +13328,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 17, La Monnaie-De Munt, Z.00",
-        "url": "https://app.box.com/s/x59nuea2sbnfjmq7syper3e5lw68d54g"
+        "description": "https://app.box.com/s/x59nuea2sbnfjmq7syper3e5lw68d54g"
       },
       "geometry": {
         "type": "Polygon",
@@ -13382,7 +13382,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 18, Cirque Royal-Koninklijk, Z.00",
-        "url": "https://app.box.com/s/slg8ir405xd89t18gbs747zscr28jg20"
+        "description": "https://app.box.com/s/slg8ir405xd89t18gbs747zscr28jg20"
       },
       "geometry": {
         "type": "Polygon",
@@ -13504,7 +13504,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 19, Stade Joseph Marien Stadion, Z.07",
-        "url": "https://app.box.com/s/i37wyxa8nmm1jlvj9whvo8s4lo1mitmw"
+        "description": "https://app.box.com/s/i37wyxa8nmm1jlvj9whvo8s4lo1mitmw"
       },
       "geometry": {
         "type": "Polygon",
@@ -13558,7 +13558,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 20, Institut Royal du Patrimoine Artistique (IRPA) - Koninklijk Inst. voor het Kunstpatrimonium (KIK), Z.03",
-        "url": "https://app.box.com/s/9b22cm4oiqmv3h0rxolpj2sbztirrjn0"
+        "description": "https://app.box.com/s/9b22cm4oiqmv3h0rxolpj2sbztirrjn0"
       },
       "geometry": {
         "type": "Polygon",
@@ -13592,7 +13592,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 21, Cathédrale des St-Michel et Gudule- St-Michiels en Goedelekatedraal, Z.00",
-        "url": "https://app.box.com/s/fjjc9vj1b1u8em08do0lkfbnjakebqvr"
+        "description": "https://app.box.com/s/fjjc9vj1b1u8em08do0lkfbnjakebqvr"
       },
       "geometry": {
         "type": "Polygon",
@@ -13662,7 +13662,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 22, Forest National-Vorst Nationaal, Z.07",
-        "url": "https://app.box.com/s/aeui4qx6aeizngd8qpfp1cxbf46y1acw"
+        "description": "https://app.box.com/s/aeui4qx6aeizngd8qpfp1cxbf46y1acw"
       },
       "geometry": {
         "type": "Polygon",
@@ -13712,7 +13712,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 23, Bozar, Z.00",
-        "url": "https://app.box.com/s/4mc7jxvxkfyhzkdfauasdeh2uhc04xjm"
+        "description": "https://app.box.com/s/4mc7jxvxkfyhzkdfauasdeh2uhc04xjm"
       },
       "geometry": {
         "type": "Polygon",
@@ -13758,7 +13758,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 24 Complexe Sportif Poséidon-Sportcomplex Poseidon Z.03",
-        "url": "https://app.box.com/s/9rhqnx67s7banex32b6ivxp4yx8u6pvr"
+        "description": "https://app.box.com/s/9rhqnx67s7banex32b6ivxp4yx8u6pvr"
       },
       "geometry": {
         "type": "Polygon",
@@ -13792,7 +13792,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 25, Musées Royaux des Beaux-Arts - Koninklijke Musea voor Schone Kunsten, Z.00",
-        "url": "https://app.box.com/s/8pmenxr7b9mb4yuypc5quy0nvcmsbm0b"
+        "description": "https://app.box.com/s/8pmenxr7b9mb4yuypc5quy0nvcmsbm0b"
       },
       "geometry": {
         "type": "Polygon",
@@ -13874,7 +13874,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 26, Stadium Kinetix, Z.01",
-        "url": "https://app.box.com/s/kup8020v1ud68948nrhems09ec6pfchh"
+        "description": "https://app.box.com/s/kup8020v1ud68948nrhems09ec6pfchh"
       },
       "geometry": {
         "type": "Polygon",
@@ -13924,7 +13924,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 27, SportCity, Z.03",
-        "url": "https://app.box.com/s/g3n5kq7pl0z4bw0d9b8yzbimtjjpcub4"
+        "description": "https://app.box.com/s/g3n5kq7pl0z4bw0d9b8yzbimtjjpcub4"
       },
       "geometry": {
         "type": "Polygon",
@@ -13998,7 +13998,7 @@
       "type": "Feature",
       "properties": {
         "name": "C3 - 28, La Bourse - De Beurs, Z.00",
-        "url": "https://app.box.com/s/20f77n65hflewmmnt310j9l1uqiih5bi"
+        "description": "https://app.box.com/s/20f77n65hflewmmnt310j9l1uqiih5bi"
       },
       "geometry": {
         "type": "Polygon",
@@ -14032,7 +14032,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 01, Cora Anderlecht, Z.08",
-        "url": "https://app.box.com/s/rlhr00mu2y0qihrt31960p1eho2sj4jh"
+        "description": "https://app.box.com/s/rlhr00mu2y0qihrt31960p1eho2sj4jh"
       },
       "geometry": {
         "type": "Polygon",
@@ -14098,7 +14098,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 02, Shopping Center Westland - Shopping Anderlecht, Z.09",
-        "url": "https://app.box.com/s/f5as5afg7jtgry995oheusbfk12ka3fy"
+        "description": "https://app.box.com/s/f5as5afg7jtgry995oheusbfk12ka3fy"
       },
       "geometry": {
         "type": "Polygon",
@@ -14204,7 +14204,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 03, Trade Mart Brussels, Z.12",
-        "url": "https://app.box.com/s/u55gsms05ssx5lfln907kap2cirov8wt"
+        "description": "https://app.box.com/s/u55gsms05ssx5lfln907kap2cirov8wt"
       },
       "geometry": {
         "type": "Polygon",
@@ -14282,7 +14282,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 04, MABRU - Marché Matinal - Vroegmarkt, Z.12",
-        "url": "https://app.box.com/s/j0yxxcg3i9zsb9clsq4csyfu219nz0mr"
+        "description": "https://app.box.com/s/j0yxxcg3i9zsb9clsq4csyfu219nz0mr"
       },
       "geometry": {
         "type": "Polygon",
@@ -14368,7 +14368,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 05, CEFL - ECFG - Centre Européen fruits légumes - Europees Centrum fruit groenten",
-        "url": "https://app.box.com/s/uwp8ejhf5d93f1bp32t6q5gavuamjz9g"
+        "description": "https://app.box.com/s/uwp8ejhf5d93f1bp32t6q5gavuamjz9g"
       },
       "geometry": {
         "type": "Polygon",
@@ -14454,7 +14454,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 06, City II, Z.00",
-        "url": "https://app.box.com/s/ad3u83k2883sxkz6tsigdxqcrrrhzfli"
+        "description": "https://app.box.com/s/ad3u83k2883sxkz6tsigdxqcrrrhzfli"
       },
       "geometry": {
         "type": "Polygon",
@@ -14508,7 +14508,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 07, DOCKS Brussels - ( Dockx), Z.01",
-        "url": "https://app.box.com/s/wcspm5lugvv4x5a723ad0cnh2d1qqwfj"
+        "description": "https://app.box.com/s/wcspm5lugvv4x5a723ad0cnh2d1qqwfj"
       },
       "geometry": {
         "type": "Polygon",
@@ -14602,7 +14602,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 08, Galerie de la Toison d'Or Galerij, Z.05",
-        "url": "https://app.box.com/s/4whsdufpwzkxh1medov2v6f31p30csxz"
+        "description": "https://app.box.com/s/4whsdufpwzkxh1medov2v6f31p30csxz"
       },
       "geometry": {
         "type": "Polygon",
@@ -14716,7 +14716,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 09 Euroveiling Z.01",
-        "url": "https://app.box.com/s/yoyjtgt7wbyg5ka69tuauyjgp7ee01hn"
+        "description": "https://app.box.com/s/yoyjtgt7wbyg5ka69tuauyjgp7ee01hn"
       },
       "geometry": {
         "type": "Polygon",
@@ -14766,7 +14766,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 10, Abattoirs - Slachthuis + Foodmet, Z.09",
-        "url": "https://app.box.com/s/5zmzk7yqbws4w6qfwcr4cxxc5gspgvh1"
+        "description": "https://app.box.com/s/5zmzk7yqbws4w6qfwcr4cxxc5gspgvh1"
       },
       "geometry": {
         "type": "Polygon",
@@ -14836,7 +14836,7 @@
       "type": "Feature",
       "properties": {
         "name": "C4 - 11, Woluwe Shopping Center, Z.03",
-        "url": "https://app.box.com/s/ghbrdhibyl9n0f6qb1owbcodu81rwbpb"
+        "description": "https://app.box.com/s/ghbrdhibyl9n0f6qb1owbcodu81rwbpb"
       },
       "geometry": {
         "type": "Polygon",
@@ -14906,7 +14906,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 01, Sheraton - Rogier Hotel, Z.01",
-        "url": "https://app.box.com/s/8uwn0t0gdg1e8srlkzkwlf4wsmjhbrxc"
+        "description": "https://app.box.com/s/8uwn0t0gdg1e8srlkzkwlf4wsmjhbrxc"
       },
       "geometry": {
         "type": "Polygon",
@@ -14948,7 +14948,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 02, Hotel Amigo, Z.00",
-        "url": "https://app.box.com/s/lrkbkmq2zzau7j3wao2yeak5btmsu3ao"
+        "description": "https://app.box.com/s/lrkbkmq2zzau7j3wao2yeak5btmsu3ao"
       },
       "geometry": {
         "type": "Polygon",
@@ -15014,7 +15014,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 03, Crowne Plaza Hotel Brussels Europa, Z.03",
-        "url": "https://app.box.com/s/7gdk5eruot3roh4uc93meiked5bbrr8n"
+        "description": "https://app.box.com/s/7gdk5eruot3roh4uc93meiked5bbrr8n"
       },
       "geometry": {
         "type": "Polygon",
@@ -15048,7 +15048,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 04, Thon Hotel Stanhope, Z.04",
-        "url": "https://app.box.com/s/p5w5tmzhlba1mx3hg2hbwarnpd0gwdg3"
+        "description": "https://app.box.com/s/p5w5tmzhlba1mx3hg2hbwarnpd0gwdg3"
       },
       "geometry": {
         "type": "Polygon",
@@ -15122,7 +15122,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 05, THON Hotel EU Brussels, Z.01",
-        "url": "https://app.box.com/s/4e7mp6883ow0xa1lkkld7jiebnjto773"
+        "description": "https://app.box.com/s/4e7mp6883ow0xa1lkkld7jiebnjto773"
       },
       "geometry": {
         "type": "Polygon",
@@ -15156,7 +15156,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 06, THON Résidence Florence, Z.05",
-        "url": "https://app.box.com/s/5dxj75vjoa1cbcd6102rj1mdumb7hukd"
+        "description": "https://app.box.com/s/5dxj75vjoa1cbcd6102rj1mdumb7hukd"
       },
       "geometry": {
         "type": "Polygon",
@@ -15190,7 +15190,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 07, THON Résidence Parnasse, Z.04",
-        "url": "https://app.box.com/s/tgrclipnoxnd4gz0i2reesvqdrnc0138"
+        "description": "https://app.box.com/s/tgrclipnoxnd4gz0i2reesvqdrnc0138"
       },
       "geometry": {
         "type": "Polygon",
@@ -15252,7 +15252,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 08, THON Hotel Bristol Stephanie, Z.05",
-        "url": "https://app.box.com/s/naz4pt5ay2etmeiqwpk35b9dfykke9z1"
+        "description": "https://app.box.com/s/naz4pt5ay2etmeiqwpk35b9dfykke9z1"
       },
       "geometry": {
         "type": "Polygon",
@@ -15322,7 +15322,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 09, THON Hotel Brussels City Center, Z.01",
-        "url": "https://app.box.com/s/ivc1qwvb8k6qxzpwr8m3zaqxmph775c4"
+        "description": "https://app.box.com/s/ivc1qwvb8k6qxzpwr8m3zaqxmph775c4"
       },
       "geometry": {
         "type": "Polygon",
@@ -15364,7 +15364,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 10, Sofitel Hotel, Z.05",
-        "url": "https://app.box.com/s/4q09ennkzonudq5p8ef95nlbm0rs8gyh"
+        "description": "https://app.box.com/s/4q09ennkzonudq5p8ef95nlbm0rs8gyh"
       },
       "geometry": {
         "type": "Polygon",
@@ -15430,7 +15430,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 11, Hilton Grand Place hotel, Z.00",
-        "url": "https://app.box.com/s/om2s10fxwv4pyvf2o317cuwhl936lxda"
+        "description": "https://app.box.com/s/om2s10fxwv4pyvf2o317cuwhl936lxda"
       },
       "geometry": {
         "type": "Polygon",
@@ -15576,7 +15576,7 @@
       "type": "Feature",
       "properties": {
         "name": "C5 - 12, Hotel Qbic, Z.05",
-        "url": "https://app.box.com/s/h2n16913319788yonhqdd93qvncgizvu"
+        "description": "https://app.box.com/s/h2n16913319788yonhqdd93qvncgizvu"
       },
       "geometry": {
         "type": "Polygon",
@@ -15654,7 +15654,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 01, Belgacom - Proximus (02 STRO - PAILLE), Z.00",
-        "url": "https://app.box.com/s/tcb4z1e09fzy7bbg53mb943ifq720mhb"
+        "description": "https://app.box.com/s/tcb4z1e09fzy7bbg53mb943ifq720mhb"
       },
       "geometry": {
         "type": "Polygon",
@@ -15712,7 +15712,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 02, RTBF, Z.03",
-        "url": "https://app.box.com/s/4ik9478vzybg9aw2mfmutf75u88ovisd"
+        "description": "https://app.box.com/s/4ik9478vzybg9aw2mfmutf75u88ovisd"
       },
       "geometry": {
         "type": "Polygon",
@@ -15790,7 +15790,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 03, ONSSAPL - RSZPPO, Z.03",
-        "url": "https://app.box.com/s/zc1t9bcrnxj3l1bgb2iw2b2w09qx0obb"
+        "description": "https://app.box.com/s/zc1t9bcrnxj3l1bgb2iw2b2w09qx0obb"
       },
       "geometry": {
         "type": "Polygon",
@@ -15824,7 +15824,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 04, Belgacom - Proximus (02 LIN), Z.03",
-        "url": "https://app.box.com/s/ke2aomxm78k7seldst4hlmvhflkobufa"
+        "description": "https://app.box.com/s/ke2aomxm78k7seldst4hlmvhflkobufa"
       },
       "geometry": {
         "type": "Polygon",
@@ -15910,7 +15910,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 05, Belgacom - Proximus (05 GAM), Z.01",
-        "url": "https://app.box.com/s/gatqys60nu345g8uphlln9kj8imo6ftd"
+        "description": "https://app.box.com/s/gatqys60nu345g8uphlln9kj8imo6ftd"
       },
       "geometry": {
         "type": "Polygon",
@@ -15952,7 +15952,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 06, Philip Morris (Bureaux - Kantoren), Z.04",
-        "url": "https://app.box.com/s/5sejcefbng71us3ea2ubllaz3xs8lj7a"
+        "description": "https://app.box.com/s/5sejcefbng71us3ea2ubllaz3xs8lj7a"
       },
       "geometry": {
         "type": "Polygon",
@@ -15986,7 +15986,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 07, Philip Morris (Usine - Fabriek), Z.07",
-        "url": "https://app.box.com/s/i8agkl2g861vfrygpnpmamhaaddp33up"
+        "description": "https://app.box.com/s/i8agkl2g861vfrygpnpmamhaaddp33up"
       },
       "geometry": {
         "type": "Polygon",
@@ -16024,7 +16024,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 08, Régie des Bâtiments - Regie der Gebouwen, Z.06",
-        "url": "https://app.box.com/s/cccfbf5jm1l1usm3cuk3xp3r5oajt2ta"
+        "description": "https://app.box.com/s/cccfbf5jm1l1usm3cuk3xp3r5oajt2ta"
       },
       "geometry": {
         "type": "Polygon",
@@ -16098,7 +16098,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 09, Belgacom - Proximus (02 MAR), Z.00",
-        "url": "https://app.box.com/s/qxeq7mrmkccxai4zqqqlh7l6kuoaemq3"
+        "description": "https://app.box.com/s/qxeq7mrmkccxai4zqqqlh7l6kuoaemq3"
       },
       "geometry": {
         "type": "Polygon",
@@ -16172,7 +16172,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 10, ONSS Place Victor Horta - RSZ Victor Hortaplein, Z.08",
-        "url": "https://app.box.com/s/vpe12mixihknkqs28jp1cln9me829692"
+        "description": "https://app.box.com/s/vpe12mixihknkqs28jp1cln9me829692"
       },
       "geometry": {
         "type": "Polygon",
@@ -16292,7 +16292,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 12, ONSSAPL Rue Joseph II - RSZPPO Jozef II-straat, Z.03",
-        "url": "https://app.box.com/s/cogamz7myb9iz6j1xpkkvxqqcc6vxauy"
+        "description": "https://app.box.com/s/cogamz7myb9iz6j1xpkkvxqqcc6vxauy"
       },
       "geometry": {
         "type": "Polygon",
@@ -16326,7 +16326,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 13, AXA Belgium, Z.05",
-        "url": "https://app.box.com/s/ien0b0j7smlg26q88q1yd0x8l7o7omu9"
+        "description": "https://app.box.com/s/ien0b0j7smlg26q88q1yd0x8l7o7omu9"
       },
       "geometry": {
         "type": "Polygon",
@@ -16432,7 +16432,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 14, D'Ieteren Mail - Volkswagen, Z.06",
-        "url": "https://app.box.com/s/ujfompeh2l2e6sf9rh3lr42r5qr540si"
+        "description": "https://app.box.com/s/ujfompeh2l2e6sf9rh3lr42r5qr540si"
       },
       "geometry": {
         "type": "Polygon",
@@ -16482,7 +16482,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 16, Atos Wordline, Z.02",
-        "url": "https://app.box.com/s/3318wfiecmgih0y8y79f5qjd9r39joi7"
+        "description": "https://app.box.com/s/3318wfiecmgih0y8y79f5qjd9r39joi7"
       },
       "geometry": {
         "type": "Polygon",
@@ -16516,7 +16516,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 17 Observatoire Royal Z.06",
-        "url": "https://app.box.com/s/m7metgczec8or1uo3albvfso21kyau8t"
+        "description": "https://app.box.com/s/m7metgczec8or1uo3albvfso21kyau8t"
       },
       "geometry": {
         "type": "Polygon",
@@ -16642,7 +16642,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 18, IC Verzekeringen N.V, Z.04",
-        "url": "https://app.box.com/s/d7zfdq6auj7bqewgfetm7a3n2ohgvqf0"
+        "description": "https://app.box.com/s/d7zfdq6auj7bqewgfetm7a3n2ohgvqf0"
       },
       "geometry": {
         "type": "Polygon",
@@ -16684,7 +16684,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 19, CCN, Z.01",
-        "url": "https://app.box.com/s/h20h9xchcfa2w9cwkv78p1ywt8ifpb7u"
+        "description": "https://app.box.com/s/h20h9xchcfa2w9cwkv78p1ywt8ifpb7u"
       },
       "geometry": {
         "type": "Polygon",
@@ -16718,7 +16718,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 20, Service fédéral des pensions-Pensioendienst, Z.08",
-        "url": "https://app.box.com/s/kayvaaa3xqlaqczfuu7m58fvybo66npf"
+        "description": "https://app.box.com/s/kayvaaa3xqlaqczfuu7m58fvybo66npf"
       },
       "geometry": {
         "type": "Polygon",
@@ -16756,7 +16756,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 21, City Center bureaux kantoren, Z.00",
-        "url": "https://app.box.com/s/gc1kdm309uronihf9xwflh8xes6wwa8l"
+        "description": "https://app.box.com/s/gc1kdm309uronihf9xwflh8xes6wwa8l"
       },
       "geometry": {
         "type": "Polygon",
@@ -16790,7 +16790,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 22, La Régie des Routes-De regie der wegen, Z.04",
-        "url": "https://app.box.com/s/7nyw9nbh9q5drhf20ichewykd6g2sksz"
+        "description": "https://app.box.com/s/7nyw9nbh9q5drhf20ichewykd6g2sksz"
       },
       "geometry": {
         "type": "Polygon",
@@ -16824,7 +16824,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 23, Eurocontrol, Z.02",
-        "url": "https://app.box.com/s/gfru1hb7q90dh52i4hdr663nof40z5qt"
+        "description": "https://app.box.com/s/gfru1hb7q90dh52i4hdr663nof40z5qt"
       },
       "geometry": {
         "type": "Polygon",
@@ -16898,7 +16898,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 24, Archives de l'Etat - Algemeen Rijksfarchief, Z.00",
-        "url": "https://app.box.com/s/mhpgfykb4ee65phz64ryfohinshyljcv"
+        "description": "https://app.box.com/s/mhpgfykb4ee65phz64ryfohinshyljcv"
       },
       "geometry": {
         "type": "Polygon",
@@ -16940,7 +16940,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 25, Kind & Gezin, Z.07",
-        "url": "https://app.box.com/s/r0e1dythginjj1fcnq517v8z1jcqvfg2"
+        "description": "https://app.box.com/s/r0e1dythginjj1fcnq517v8z1jcqvfg2"
       },
       "geometry": {
         "type": "Polygon",
@@ -17002,7 +17002,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 26, KBC avenue du port, Z.11",
-        "url": "https://app.box.com/s/jo76sq85e0xpa5bg4tzbtsfisfxa0uma"
+        "description": "https://app.box.com/s/jo76sq85e0xpa5bg4tzbtsfisfxa0uma"
       },
       "geometry": {
         "type": "Polygon",
@@ -17080,7 +17080,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 27, Tweed (bureaux-kantoren), Z.00",
-        "url": "https://app.box.com/s/cj0aewlw9mw0nat5sxse6j548xdoj9ak"
+        "description": "https://app.box.com/s/cj0aewlw9mw0nat5sxse6j548xdoj9ak"
       },
       "geometry": {
         "type": "Polygon",
@@ -17114,7 +17114,7 @@
       "type": "Feature",
       "properties": {
         "name": "C6 - 28, Iris Tower, Z.01",
-        "url": "https://app.box.com/s/xtwu5y6ckcbma1tq7r2djsmqcwe001gn"
+        "description": "https://app.box.com/s/xtwu5y6ckcbma1tq7r2djsmqcwe001gn"
       },
       "geometry": {
         "type": "Polygon",
@@ -17172,7 +17172,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 01, Toison d’or (Bâtiment) - Guldenvlies, Z.05",
-        "url": "https://app.box.com/s/u2jqyr80fom1qzgrpu95qkvp938kjg6k"
+        "description": "https://app.box.com/s/u2jqyr80fom1qzgrpu95qkvp938kjg6k"
       },
       "geometry": {
         "type": "Polygon",
@@ -17222,7 +17222,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 02, Gare Maritime - Maritiem Station, Z.11",
-        "url": "https://app.box.com/s/nzc6la8w7u05m2b3cillfjkxpq6z10zw"
+        "description": "https://app.box.com/s/nzc6la8w7u05m2b3cillfjkxpq6z10zw"
       },
       "geometry": {
         "type": "Polygon",
@@ -17256,7 +17256,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 03, Trône 100, Z.04",
-        "url": "https://app.box.com/s/tlfd8eo69g33e74wm9q9q4sd1xcbj9zr"
+        "description": "https://app.box.com/s/tlfd8eo69g33e74wm9q9q4sd1xcbj9zr"
       },
       "geometry": {
         "type": "Polygon",
@@ -17358,7 +17358,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 05, Quatuor, Z.12",
-        "url": "https://app.box.com/s/gfzc8jv9q9v5d8o201gmf7hi4q5z9i2j"
+        "description": "https://app.box.com/s/gfzc8jv9q9v5d8o201gmf7hi4q5z9i2j"
       },
       "geometry": {
         "type": "Polygon",
@@ -17392,7 +17392,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 06, Bâtiment réfugiés ukrainiens (WSL) Z.03",
-        "url": "https://app.box.com/s/3n06ps4eas4zjed2bgy9dqynvxw9bhsp"
+        "description": "https://app.box.com/s/3n06ps4eas4zjed2bgy9dqynvxw9bhsp"
       },
       "geometry": {
         "type": "Polygon",
@@ -17430,7 +17430,7 @@
       "type": "Feature",
       "properties": {
         "name": "C7 - 08 Maison Ernest Solvay Z.05",
-        "url": "https://app.box.com/s/ifm8ac36cmysjgub33legivuk51k4hqu"
+        "description": "https://app.box.com/s/ifm8ac36cmysjgub33legivuk51k4hqu"
       },
       "geometry": {
         "type": "Polygon",
@@ -17484,7 +17484,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 01, Ecole Européenne II (1200 Bxl) - Europese School II (1200 Bxl), Z.03",
-        "url": "https://app.box.com/s/jspeao5y4pdh1ucbx1qdx0v8oglt6pu8"
+        "description": "https://app.box.com/s/jspeao5y4pdh1ucbx1qdx0v8oglt6pu8"
       },
       "geometry": {
         "type": "Polygon",
@@ -17570,7 +17570,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 02, Ecole Européenne III (1050 Bxl) - Europese School III (1050 Bxl), Z.04",
-        "url": "https://app.box.com/s/ck6olzphqe3yrvmdad5lj1ecrpmrmw2s"
+        "description": "https://app.box.com/s/ck6olzphqe3yrvmdad5lj1ecrpmrmw2s"
       },
       "geometry": {
         "type": "Polygon",
@@ -17704,7 +17704,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 03, Vrije Universiteit Brussel (VUB) Ett. Z.04",
-        "url": "https://app.box.com/s/zpmct1vrxqrhtue3gonbq1pr9dyqxr8f"
+        "description": "https://app.box.com/s/zpmct1vrxqrhtue3gonbq1pr9dyqxr8f"
       },
       "geometry": {
         "type": "Polygon",
@@ -17738,7 +17738,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 04, Ecole Européenne I (1180 Bxl) - Europese School I (1180 Bxl), Z.06",
-        "url": "https://app.box.com/s/p7ipl9j3rp9oo8qj8ucbyp4k502l3i5i"
+        "description": "https://app.box.com/s/p7ipl9j3rp9oo8qj8ucbyp4k502l3i5i"
       },
       "geometry": {
         "type": "Polygon",
@@ -17888,7 +17888,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 05, The International School of Brussels (ISB), Z.05",
-        "url": "https://app.box.com/s/ney671m2lbp2zgrbz0k4gsxp61k0y7v1"
+        "description": "https://app.box.com/s/ney671m2lbp2zgrbz0k4gsxp61k0y7v1"
       },
       "geometry": {
         "type": "Polygon",
@@ -17978,7 +17978,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 06, CERIA - COOVI, Z.08",
-        "url": "https://app.box.com/s/3xtyyzm6kvnlqys5js7e19b12gi25ogo"
+        "description": "https://app.box.com/s/3xtyyzm6kvnlqys5js7e19b12gi25ogo"
       },
       "geometry": {
         "type": "Polygon",
@@ -18080,7 +18080,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 07, Université Libre de Bruxelles (ULB) - Campus du Solbosch, Z.05",
-        "url": "https://app.box.com/s/7qlya8cul755f3cnwkct4r8x94kl5zua"
+        "description": "https://app.box.com/s/7qlya8cul755f3cnwkct4r8x94kl5zua"
       },
       "geometry": {
         "type": "Polygon",
@@ -18174,7 +18174,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 09, Lycée Français Jean Monnet Frans Lyceum, Z.06",
-        "url": "https://app.box.com/s/568pnjiza63anf5rhw133zlnjugpk1sl"
+        "description": "https://app.box.com/s/568pnjiza63anf5rhw133zlnjugpk1sl"
       },
       "geometry": {
         "type": "Polygon",
@@ -18308,7 +18308,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 10, Ecole européenne IV - Europese school, Z.12",
-        "url": "https://app.box.com/s/2gza9bibp1eoikgkqlnvh7v1lrr3jp0h"
+        "description": "https://app.box.com/s/2gza9bibp1eoikgkqlnvh7v1lrr3jp0h"
       },
       "geometry": {
         "type": "Polygon",
@@ -18382,7 +18382,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 11, UCL (Université Catholique de Louvain), Z03",
-        "url": "https://app.box.com/s/upcou8awlaf2nahu7uw4456wnfcd2zdm"
+        "description": "https://app.box.com/s/upcou8awlaf2nahu7uw4456wnfcd2zdm"
       },
       "geometry": {
         "type": "Polygon",
@@ -18664,7 +18664,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 12, Institut IRSA-ALPHA Z.06",
-        "url": "https://app.box.com/s/9hyfc0hx8w778im38jhf8j3opvj5a7dv"
+        "description": "https://app.box.com/s/9hyfc0hx8w778im38jhf8j3opvj5a7dv"
       },
       "geometry": {
         "type": "Polygon",
@@ -18722,7 +18722,7 @@
       "type": "Feature",
       "properties": {
         "name": "C8 - 13, Maison d'Enfants Reine Marie-Henriette, Z.00",
-        "url": "https://app.box.com/s/g95hin01zcojellz6h9adg26k587veox"
+        "description": "https://app.box.com/s/g95hin01zcojellz6h9adg26k587veox"
       },
       "geometry": {
         "type": "Polygon",
@@ -18812,7 +18812,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 01, Bâtiment élevé Rue Général Henry- Hoog Gebouw Generaal Henrystraat, Z.04",
-        "url": "https://app.box.com/s/uav4ozkqhyqblzgyltbmcrpg6jao2kja"
+        "description": "https://app.box.com/s/uav4ozkqhyqblzgyltbmcrpg6jao2kja"
       },
       "geometry": {
         "type": "Polygon",
@@ -18854,7 +18854,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 02, Bâtiment élevé - Av.Mahatma Gandhi Laan - Hoog gebouw, Z.10",
-        "url": "https://app.box.com/s/ge4yuosd5u7qrdu8fg8ggqrq40v9p3d3"
+        "description": "https://app.box.com/s/ge4yuosd5u7qrdu8fg8ggqrq40v9p3d3"
       },
       "geometry": {
         "type": "Polygon",
@@ -18908,7 +18908,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 03, Bâtiment élevé - Av.de Roovere Laan - Hoog gebouw, Z.09",
-        "url": "https://app.box.com/s/7ioa3qqph0jsvqglwbv7te5qhnnm9ouh"
+        "description": "https://app.box.com/s/7ioa3qqph0jsvqglwbv7te5qhnnm9ouh"
       },
       "geometry": {
         "type": "Polygon",
@@ -18950,7 +18950,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 04, Bâtiments élevés - Flagey - Hoge gebouwen, Z.05",
-        "url": "https://app.box.com/s/kz5ug6boszljk8bk71wt4kxv7r5fpqtr"
+        "description": "https://app.box.com/s/kz5ug6boszljk8bk71wt4kxv7r5fpqtr"
       },
       "geometry": {
         "type": "Polygon",
@@ -19020,7 +19020,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 05, Bâtiment élevé - Rue Jules Lahaye Straat - Hoog gebouw, Z.12",
-        "url": "https://app.box.com/s/0n8xaiuffaf500u7dzshcw69bpr3s3s1"
+        "description": "https://app.box.com/s/0n8xaiuffaf500u7dzshcw69bpr3s3s1"
       },
       "geometry": {
         "type": "Polygon",
@@ -19070,7 +19070,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 06, Bâtiment élevé - Rue Georges Leclercq Straat - Hoog gebouw, Z.07",
-        "url": "https://app.box.com/s/juym5g51gxr0ytydszwlgtnesyyy939k"
+        "description": "https://app.box.com/s/juym5g51gxr0ytydszwlgtnesyyy939k"
       },
       "geometry": {
         "type": "Polygon",
@@ -19104,7 +19104,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 07, Bâtiment élevé - Rue de l'Ommegang Straat - Hoog gebouw, Z.00",
-        "url": "https://app.box.com/s/e7qlvo449hmk31dmh3kldnptzyiv6jp0"
+        "description": "https://app.box.com/s/e7qlvo449hmk31dmh3kldnptzyiv6jp0"
       },
       "geometry": {
         "type": "Polygon",
@@ -19138,7 +19138,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 08, Bâtiment élevé - Rue du Moulin-Molenstraat - Hoog gebouw, Z.02",
-        "url": "https://app.box.com/s/7jslprzw3cw3nnflak0gr11vcwet4p7l"
+        "description": "https://app.box.com/s/7jslprzw3cw3nnflak0gr11vcwet4p7l"
       },
       "geometry": {
         "type": "Polygon",
@@ -19200,7 +19200,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 09, Bâtiment élevé - Av.de la Brabanconne Laan - Hoog gebouw, Z.03",
-        "url": "https://app.box.com/s/5v9bc4fkwzj5r3nnirjw776ur7gekbs7"
+        "description": "https://app.box.com/s/5v9bc4fkwzj5r3nnirjw776ur7gekbs7"
       },
       "geometry": {
         "type": "Polygon",
@@ -19242,7 +19242,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 10, Bâtiment élevé - Av. Guillaume de Greef Laan - Hoog gebouw, Z.11",
-        "url": "https://app.box.com/s/61bbnfofuzujpkf08qp4mnveyu3d0j7w"
+        "description": "https://app.box.com/s/61bbnfofuzujpkf08qp4mnveyu3d0j7w"
       },
       "geometry": {
         "type": "Polygon",
@@ -19292,7 +19292,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 11, Bât. élevé sq. Albert I 32-35, Z.08",
-        "url": "https://app.box.com/s/7pcvfl0lgj15plge3409376gf9d11x49"
+        "description": "https://app.box.com/s/7pcvfl0lgj15plge3409376gf9d11x49"
       },
       "geometry": {
         "type": "Polygon",
@@ -19334,7 +19334,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 12, Bâtiment élevé-R.des Fleuristes-Bloemistenstraat-Hoog gebouw,Z.07",
-        "url": "https://app.box.com/s/7gwncuzo3iee7glu6mv5pint3yvv5r7k"
+        "description": "https://app.box.com/s/7gwncuzo3iee7glu6mv5pint3yvv5r7k"
       },
       "geometry": {
         "type": "Polygon",
@@ -19368,7 +19368,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 13, Bâtiment élevé - Bld Edmond Machtens Laan - Hoog gebouw, Z.10",
-        "url": "https://app.box.com/s/flytc8b96g8ukwbk7lihdlhimf3dco1o"
+        "description": "https://app.box.com/s/flytc8b96g8ukwbk7lihdlhimf3dco1o"
       },
       "geometry": {
         "type": "Polygon",
@@ -19402,7 +19402,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 14, Bâtiment élevé - Rue de la Colonne-Kolomstraat - Hoog Gebouw, Z.10",
-        "url": "https://app.box.com/s/fdcd50uzpv4v388ish6odt0sadubluqp"
+        "description": "https://app.box.com/s/fdcd50uzpv4v388ish6odt0sadubluqp"
       },
       "geometry": {
         "type": "Polygon",
@@ -19436,7 +19436,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 15, Bâtiment élevé - Rue de la Colonne-Kolomstraat - Hoog Gebouw, Z.10",
-        "url": "https://app.box.com/s/9r32j2yj0bulp34wt65iw03kt96jz5ll"
+        "description": "https://app.box.com/s/9r32j2yj0bulp34wt65iw03kt96jz5ll"
       },
       "geometry": {
         "type": "Polygon",
@@ -19478,7 +19478,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 16, Tour UpSite Toren, Z.12",
-        "url": "https://app.box.com/s/oxc7m8otvxaosjl6o3s5imt7sbpz6t7v"
+        "description": "https://app.box.com/s/oxc7m8otvxaosjl6o3s5imt7sbpz6t7v"
       },
       "geometry": {
         "type": "Polygon",
@@ -19512,7 +19512,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 17, Bâtiment élevé - Rempart des moines-Papenvest - Hoog gebouw, Z.00",
-        "url": "https://app.box.com/s/rs1q82sv2c06vmphvsb2isib5ejc23av"
+        "description": "https://app.box.com/s/rs1q82sv2c06vmphvsb2isib5ejc23av"
       },
       "geometry": {
         "type": "Polygon",
@@ -19546,7 +19546,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 18 Bâtiment élevé Parc du Peterbos - Hoog gebouw Peterbospark Z.09",
-        "url": "https://app.box.com/s/3439fd8s83kupnkv95nio0zg84vlztjb"
+        "description": "https://app.box.com/s/3439fd8s83kupnkv95nio0zg84vlztjb"
       },
       "geometry": {
         "type": "Polygon",
@@ -19580,7 +19580,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 19, Bâtiment élevé - Henri Evenepoel 90-92 - Hoog Gebouw, Z.03",
-        "url": "https://app.box.com/s/abizspqfes5vt951pql7xkaf8vpvop1w"
+        "description": "https://app.box.com/s/abizspqfes5vt951pql7xkaf8vpvop1w"
       },
       "geometry": {
         "type": "Polygon",
@@ -19646,7 +19646,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 20, Bâtiment élevé - Henri Evenepoel 94-96 - Hoog gebouw, Z.03",
-        "url": "https://app.box.com/s/sqw708d1u9k1dedukjpbpw4g81czy7v0"
+        "description": "https://app.box.com/s/sqw708d1u9k1dedukjpbpw4g81czy7v0"
       },
       "geometry": {
         "type": "Polygon",
@@ -19680,7 +19680,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 21, Bâtiment élevé - Henri Evenepoel 98-100 - Hoog Gebouw, Z.03",
-        "url": "https://app.box.com/s/ortnd3h89qt280dx6jpx1iurxahlkxp8"
+        "description": "https://app.box.com/s/ortnd3h89qt280dx6jpx1iurxahlkxp8"
       },
       "geometry": {
         "type": "Polygon",
@@ -19734,7 +19734,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 22, Bâtiment élevé - Mont-St-Lambert - St-Lambertusberg - Hoog gebouw",
-        "url": "https://app.box.com/s/9opjuyqrd2qt7z7gw57f0ai50i5jcs94"
+        "description": "https://app.box.com/s/9opjuyqrd2qt7z7gw57f0ai50i5jcs94"
       },
       "geometry": {
         "type": "Polygon",
@@ -19768,7 +19768,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 23, B.E Av. de Broqueville Laan, Z.03",
-        "url": "https://app.box.com/s/usz0hwsji0aerwx7izbowvlgmxqq8a52"
+        "description": "https://app.box.com/s/usz0hwsji0aerwx7izbowvlgmxqq8a52"
       },
       "geometry": {
         "type": "Polygon",
@@ -19802,7 +19802,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 24, Bâtiment élevé Brusilia Hoog gebouw, Z.01",
-        "url": "https://app.box.com/s/wvmzote44wuey56j51hr5iek8kqh12q2"
+        "description": "https://app.box.com/s/wvmzote44wuey56j51hr5iek8kqh12q2"
       },
       "geometry": {
         "type": "Polygon",
@@ -19868,7 +19868,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 26 Bâtiment élevé Parc du Peterbos -8- Hoog gebouw Peterbospark Z.09",
-        "url": "https://app.box.com/s/oylm165v5do93vp6vtvguv18lrdfes5h"
+        "description": "https://app.box.com/s/oylm165v5do93vp6vtvguv18lrdfes5h"
       },
       "geometry": {
         "type": "Polygon",
@@ -19902,7 +19902,7 @@
       "type": "Feature",
       "properties": {
         "name": "C9 - 35, Bâtiment élevé - Tour Brunfaut - Hoog Gebouw, Z.10",
-        "url": "https://app.box.com/s/e3twpkh7wdaynrhavhdluvzxql55f9bc"
+        "description": "https://app.box.com/s/e3twpkh7wdaynrhavhdluvzxql55f9bc"
       },
       "geometry": {
         "type": "Polygon",
@@ -19936,7 +19936,7 @@
       "type": "Feature",
       "properties": {
         "name": "C10-01 Hébergement d'urgence - Noodopvang, av. Fraçois Sebrechtlaan, Z.09",
-        "url": "https://app.box.com/s/mm5729kexcd27lo640pmbjpk2oamwmio"
+        "description": "https://app.box.com/s/mm5729kexcd27lo640pmbjpk2oamwmio"
       },
       "geometry": {
         "type": "Polygon",
@@ -19974,7 +19974,7 @@
       "type": "Feature",
       "properties": {
         "name": "C10-02 Hébergement d'urgence - Noodopvang, Bld Lambermont, Z.02",
-        "url": "https://app.box.com/s/itjuo6ant4aoy9017ynt0j7qeqyxecr5"
+        "description": "https://app.box.com/s/itjuo6ant4aoy9017ynt0j7qeqyxecr5"
       },
       "geometry": {
         "type": "Polygon",
@@ -20012,7 +20012,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 01,Les Jardins de Jette, Z.11",
-        "url": "https://app.box.com/s/wco9q5jplw120k8zs2cv9i4qoql6rhzx"
+        "description": "https://app.box.com/s/wco9q5jplw120k8zs2cv9i4qoql6rhzx"
       },
       "geometry": {
         "type": "Polygon",
@@ -20094,7 +20094,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 02 Les Venelles Z.03",
-        "url": "https://app.box.com/s/jkaf1babrbgufp2997d0ofiikkz7dym1"
+        "description": "https://app.box.com/s/jkaf1babrbgufp2997d0ofiikkz7dym1"
       },
       "geometry": {
         "type": "Polygon",
@@ -20208,7 +20208,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 03, Cité de l'Amitié, Z.03",
-        "url": "https://app.box.com/s/ciq06kek4lbkw3pr425ib0i8d6sokevq"
+        "description": "https://app.box.com/s/ciq06kek4lbkw3pr425ib0i8d6sokevq"
       },
       "geometry": {
         "type": "Polygon",
@@ -20282,7 +20282,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 04, Cité de logments Andromède, Z.03",
-        "url": "https://app.box.com/s/73l59v9zgwzecyikx0e7nz78oibfoxuv"
+        "description": "https://app.box.com/s/73l59v9zgwzecyikx0e7nz78oibfoxuv"
       },
       "geometry": {
         "type": "Polygon",
@@ -20436,7 +20436,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 05, Parc du Cinquantenaire, Z.04",
-        "url": "https://app.box.com/s/qyl30cydmh9h35dzol6zfq7weryqqfnm"
+        "description": "https://app.box.com/s/qyl30cydmh9h35dzol6zfq7weryqqfnm"
       },
       "geometry": {
         "type": "Polygon",
@@ -20486,7 +20486,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 06, Cité Modèle - Modelwijk, Z.11",
-        "url": "https://app.box.com/s/iag0laaro8hdqu70c41nv70b0g32zhsq"
+        "description": "https://app.box.com/s/iag0laaro8hdqu70c41nv70b0g32zhsq"
       },
       "geometry": {
         "type": "Polygon",
@@ -20608,7 +20608,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 07, Marius Renard (Plan d’Accès) - Marius Renardlaan (Acces Plan), Z.08",
-        "url": "https://app.box.com/s/bsjgqt7grbta0nuwlm1hc4ax89en37yj"
+        "description": "https://app.box.com/s/bsjgqt7grbta0nuwlm1hc4ax89en37yj"
       },
       "geometry": {
         "type": "Polygon",
@@ -20666,7 +20666,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 08, Parking CHIREC - Delta Ouest, Z.04",
-        "url": "https://app.box.com/s/hvqb5vne4hxqxblvhr0r4e6w39wv3crp"
+        "description": "https://app.box.com/s/hvqb5vne4hxqxblvhr0r4e6w39wv3crp"
       },
       "geometry": {
         "type": "Polygon",
@@ -20716,7 +20716,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 09, Cité de Logements Parc Peterbos, Z.09",
-        "url": "https://app.box.com/s/c18ixeht9w5xw7pq9olytdvubartephg"
+        "description": "https://app.box.com/s/c18ixeht9w5xw7pq9olytdvubartephg"
       },
       "geometry": {
         "type": "Polygon",
@@ -20790,7 +20790,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 10, Forêt de Soignes - Zonienwoud Z.04-05",
-        "url": "https://app.box.com/s/ytkwcy4un2zzmz9abqsy7aytvwsaoi0x"
+        "description": "https://app.box.com/s/ytkwcy4un2zzmz9abqsy7aytvwsaoi0x"
       },
       "geometry": {
         "type": "Polygon",
@@ -21180,7 +21180,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 11, Clos du Marais, Z.00",
-        "url": "https://app.box.com/s/nnd2m05altmqo8xjc052dwmwymh39vvr"
+        "description": "https://app.box.com/s/nnd2m05altmqo8xjc052dwmwymh39vvr"
       },
       "geometry": {
         "type": "Polygon",
@@ -21250,7 +21250,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 12, Clos des Musiciens, Z.08",
-        "url": "https://app.box.com/s/xe8pkh2ucors81o5kqz3a8fc34x0879b"
+        "description": "https://app.box.com/s/xe8pkh2ucors81o5kqz3a8fc34x0879b"
       },
       "geometry": {
         "type": "Polygon",
@@ -21304,7 +21304,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 13, Résidence Matériaux - Materiaal Woonwijk, Z.08",
-        "url": "https://app.box.com/s/3miayru8k4bjzxfpqn2ka2pjla9h693f"
+        "description": "https://app.box.com/s/3miayru8k4bjzxfpqn2ka2pjla9h693f"
       },
       "geometry": {
         "type": "Polygon",
@@ -21338,7 +21338,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 14, Quartier Tivoli, Z.12",
-        "url": "https://app.box.com/s/cbpjl1hgrpzkit54y75v55qiu1ldn74q"
+        "description": "https://app.box.com/s/cbpjl1hgrpzkit54y75v55qiu1ldn74q"
       },
       "geometry": {
         "type": "Polygon",
@@ -21408,7 +21408,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 15, Residence M-Square, Z.09",
-        "url": "https://app.box.com/s/r8rf05t5ogsln0tpljklg7950ruiu5eh"
+        "description": "https://app.box.com/s/r8rf05t5ogsln0tpljklg7950ruiu5eh"
       },
       "geometry": {
         "type": "Polygon",
@@ -21462,7 +21462,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 16, Immeuble de logements - Woonwijk Chaussée de Gand 340 Gentsesteenweg, Z.10",
-        "url": "https://app.box.com/s/c3byydcxaau63jdcwpsksvx3p0974hq0"
+        "description": "https://app.box.com/s/c3byydcxaau63jdcwpsksvx3p0974hq0"
       },
       "geometry": {
         "type": "Polygon",
@@ -21520,7 +21520,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 17, Immeuble de logement rue de Moorslede, Z.12",
-        "url": "https://app.box.com/s/tqlxdp254212sqz9pc7zwbkh9av3zz02"
+        "description": "https://app.box.com/s/tqlxdp254212sqz9pc7zwbkh9av3zz02"
       },
       "geometry": {
         "type": "Polygon",
@@ -21570,7 +21570,7 @@
       "type": "Feature",
       "properties": {
         "name": "D1 - 18 CityCampus And, Z.08",
-        "url": "https://app.box.com/s/qhlyy9v16bxsqst6qrkahke97vp0kweg"
+        "description": "https://app.box.com/s/qhlyy9v16bxsqst6qrkahke97vp0kweg"
       },
       "geometry": {
         "type": "Polygon",
@@ -21611,7 +21611,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bâtiment réfugiés"
+        "name": "Bâtiment réfugiés",
+        "description": ""
       },
       "geometry": {
         "type": "Polygon",
